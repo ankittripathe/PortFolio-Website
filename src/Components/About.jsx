@@ -18,7 +18,7 @@ function About() {
                 src={laptop}
                 alt="mee"
                 id="img-side__main-img"
-              />
+              /> 
               <span>
                 <img
                   src={circlename}
@@ -41,7 +41,7 @@ function About() {
                 code and utilizing cutting-edge development tools and
                 techniques. I am also a team player who thrives in collaborating
                 with cross-functional teams to produce outstanding web
-                applications.
+                applications.  
               </p>
             </div>
           </div>
