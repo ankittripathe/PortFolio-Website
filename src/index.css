@@ -8,41 +8,15 @@
   font-family: "Poppins", sans-serif;
 }
 
-
 /* Responsive codeeeeeeeeeeeeeee */
- @keyframes rotate { 
+@keyframes rotate {
   100% {
     -webkit-transform: rotate(1turn);
     transform: rotate(1turn);
   }
-} 
-
+}
 
 @media only screen and (max-width: 950px) {
-
-
-  .profile-img {
-    width: 300px;
-    height: 300px;
-  }
-  .img-side span img {
-    width: 8rem;
-  }
-  .img-side span {
-    bottom: -55px;
-    right: -6px;
-    height: 8rem;
-    width: 8rem;
-    position: absolute;
-  }
-  .work-emoji {
-    bottom: -15px;
-    position: absolute;
-    right: 26px;
-    width: 4rem !important;
-    z-index: 1;
-  }
-
   /* For toggle menu button */
   .nav-list {
     display: none;
