@@ -1,12 +1,10 @@
-import Coinapp from "../assets/Coinapp.png";
-import Codefusion from "../assets/codefusion-img.png";
 import Devfinder from "../assets/Devfinder.png";
 import Moviesapp from "../assets/Moviesapp.png";
 import trendwear from '../assets/trendWear.png'
+import nexushome from '../assets/nexushome.png'
 
 const ProjecctApi = [
   {
-    // img: Coinapp,
     img: trendwear,
     heading: "trendWear",
     para: "Coindom is a crypto app that allows users to search for information about various cryptocurrencies in real-time.",
@@ -19,14 +17,15 @@ const ProjecctApi = [
   },
 
   {
-    img: Codefusion,
-    heading: "CODEFUSION💻",
+    img: nexushome,
+    heading: "NexusHome",
     para: "CodeFusion is a real-time code syncing application where people can contribute code in real-time. CodeFusion can overcome the sharing of large data files.",
     tech1: "React",
-    tech2: "Socket.io",
+    tech2: "Tailwind",
     tech3: "React-Router",
-    code: "https://github.com/muku007-codes/CodeFusion",
-    live: "https://codefusion.onrender.com/",
+    tech4: 'Framer Motion',
+    code: "https://github.com/ankittripathe/RealEstate-App",
+    live: "https://nexushome-realestate-project.vercel.app/",
   },
 
   {
