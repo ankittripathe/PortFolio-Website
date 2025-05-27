@@ -112,3 +112,44 @@
   width: auto;
   padding-right: 1rem;
 }
+
+/* Responsivess For Home Section */
+@media only screen and (max-width: 950px) {
+  .hero {
+    padding: 0;
+    padding-top: 10rem;
+  }
+
+  .hero-main {
+    flex-direction: column-reverse;
+    text-align: center;
+    height: auto;
+    /* padding-top: 15rem; */
+    /* padding-left: 2rem; */
+    text-wrap: wrap;
+  }
+
+  .hero-text p {
+    text-wrap: balance;
+  }
+
+  .hero-text h1 {
+    font-size: 2rem;
+  }
+
+    .skills {
+    flex-direction: column;
+  }
+  .skills p {
+    border-right: none;
+    border-bottom: 2px solid rgba(45, 46, 50, 0.5);
+  }
+  .skills ul {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+  }
+
+    .content {
+    gap: 2rem;
+  }
+}
