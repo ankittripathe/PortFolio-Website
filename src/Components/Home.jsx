@@ -3,7 +3,7 @@ import github from "../assets/github.png";
 import linkedin from "../assets/linkedin.png";
 import instagram from "../assets/instagram.png";
 import handemoji from "../assets/wave-hand.png";
-import '../Components/Styles/Home.css'
+import "../Components/Styles/Home.css";
 
 function Home() {
   return (
@@ -104,14 +104,15 @@ function Home() {
                   />
                 </li>
 
-                {/* <li><img src="https://skillicons.dev/icons?i=nodejs" alt="Nodejs"/></li> */}
-                {/* <li><img src="https://skillicons.dev/icons?i=express" alt="ExpressJs"/></li> */}
                 <li>
                   <img
                     src="https://skillicons.dev/icons?i=mongo"
                     alt="MongoDB"
                   />
                 </li>
+
+                {/* <li><img src="https://skillicons.dev/icons?i=nodejs" alt="Nodejs"/></li> */}
+                {/* <li><img src="https://skillicons.dev/icons?i=express" alt="ExpressJs"/></li> */}
                 {/* <li><img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" /></li> */}
                 {/* <li><img src="https://skillicons.dev/icons?i=aws" alt="AWS" /></li> */}
               </ul>

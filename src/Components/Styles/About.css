@@ -117,4 +117,24 @@
   .text-side p {
     text-align: center;
   }
+
+  .img-side span img {
+    width: 8rem;
+  }
+
+  .img-side span {
+    bottom: -55px;
+    right: -6px;
+    height: 8rem;
+    width: 8rem;
+    position: absolute;
+  }
+
+  .work-emoji {
+    bottom: -15px;
+    position: absolute;
+    right: 26px;
+    width: 4rem !important;
+    z-index: 1;
+  }
 }
