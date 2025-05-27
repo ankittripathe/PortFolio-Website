@@ -1,7 +1,7 @@
 import laptop from "../assets/laptop-on-table.webp";
 import menemoji from "../assets/menwithmac.png";
 import circlename from "../assets/circle-name.svg";
-import '../Components/Styles/About.css'
+import "../Components/Styles/About.css";
 
 function About() {
   return (
