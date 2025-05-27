@@ -1,0 +1,90 @@
+/* Css for About Section */
+.about-sec {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #ffffff;
+  padding: 5rem 2rem;
+  margin: 0 auto;
+}
+
+#img-side__main-img {
+  border-radius: 1.7rem;
+  height: 20rem;
+  width: 30rem;
+}
+
+.work-emoji {
+  bottom: -12px;
+  position: absolute;
+  right: 49px;
+  width: 6rem !important;
+  z-index: 1;
+}
+
+.img-side span img {
+  -webkit-animation: rotate 9s linear infinite;
+  animation: rotate 9s linear infinite;
+  width: 12rem;
+}
+
+.about-content {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  justify-content: center;
+  gap: 3rem;
+  height: auto;
+}
+
+.img-side {
+  position: relative;
+}
+
+.img-side span {
+  background-color: #fff;
+  border-radius: 50%;
+  bottom: -70px;
+  right: 0px;
+  height: 12rem;
+  width: 12rem;
+  position: absolute;
+}
+
+.img-side {
+  position: relative;
+}
+
+.text-side {
+  /* padding-right: 1.5rem; */
+  width: 500px;
+}
+
+.text-side h3 {
+  color: #147efb;
+  font-size: 1.7rem;
+  font-weight: 700;
+  margin-bottom: 1rem;
+  text-transform: uppercase;
+}
+
+.text-side h4 {
+  color: #2d2e32;
+  font-family: Poppins, sans-serif;
+  font-size: 2rem;
+  line-height: 1.5;
+  margin-bottom: 2rem;
+}
+
+.text-side p {
+  color: #767676;
+  font-size: 1rem;
+  font-weight: 500;
+  line-height: 1.5;
+}
+
+.img-side__main-img {
+  border-radius: 1.7rem;
+  height: 35rem;
+  width: 41rem;
+}

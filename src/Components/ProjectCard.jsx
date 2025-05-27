@@ -1,4 +1,5 @@
 import React from "react";
+import '../Components/Styles/ProjectCard.css'
 
 function ProjectCard(props) {
   // console.log(props.tech1);
@@ -13,10 +14,13 @@ function ProjectCard(props) {
             {props.index.heading} <span className="date-class"></span>
           </h3>
           <p>{props.index.para}</p>
+          
           <div className="stack">
             <p>{props.index.tech1}</p>
             <p>{props.index.tech2}</p>
             <p>{props.index.tech3}</p>
+            <p>{props.index.tech4}</p>
+            {/* <p>{props.index.tech5}</p> */}
           </div>
           <div className="link">
             <a href={props.index.code} target="_blank">
@@ -37,7 +41,7 @@ function ProjectCard(props) {
               </svg>
             </a>
             <a href={props.index.live} target="_blank">
-              Live
+              live-demo
               <svg
                 xmlns="http://www.w3.org/2000/svg"
                 width="24"
