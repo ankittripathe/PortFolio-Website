@@ -1,6 +1,7 @@
 import React from "react";
 import ProjectCard from "./ProjectCard";
 import ProjecctApi from "../API/Project-api.js";
+import '../Components/Styles/Project.css'
 
 function Projects() {
   console.log(ProjecctApi[0]);

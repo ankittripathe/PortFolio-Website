@@ -3,6 +3,7 @@ import github from "../assets/github.png";
 import linkedin from "../assets/linkedin.png";
 import instagram from "../assets/instagram.png";
 import handemoji from "../assets/wave-hand.png";
+import '../Components/Styles/Home.css'
 
 function Home() {
   return (
@@ -13,7 +14,7 @@ function Home() {
             <div className="hero-main">
               <div className="hero-text">
                 <h1>
-                  Front-End Developer{" "}
+                  Front-End Developer <br />
                   <img className="wave-hand" src={handemoji} alt="" />
                 </h1>
                 <p>
@@ -53,19 +54,31 @@ function Home() {
                 </li>
 
                 <li>
-                  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript"/>
+                  <img
+                    src="https://skillicons.dev/icons?i=js"
+                    alt="JavaScript"
+                  />
                 </li>
 
                 <li>
-                  <img src="https://skillicons.dev/icons?i=react" alt="Reactjs"/>
+                  <img
+                    src="https://skillicons.dev/icons?i=react"
+                    alt="Reactjs"
+                  />
                 </li>
 
                 <li>
-                  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS"/>
+                  <img
+                    src="https://skillicons.dev/icons?i=tailwind"
+                    alt="Tailwind CSS"
+                  />
                 </li>
 
                 <li>
-                  <img src="https://skillicons.dev/icons?i=materialui" alt="Material UI" />
+                  <img
+                    src="https://skillicons.dev/icons?i=materialui"
+                    alt="Material UI"
+                  />
                 </li>
 
                 <li>
@@ -73,24 +86,34 @@ function Home() {
                 </li>
 
                 <li>
-                   <img src="https://cdn.worldvectorlogo.com/logos/framer-motion.svg" 
-                   alt="Framer Motion" width="45" />
+                  <img
+                    src="https://cdn.worldvectorlogo.com/logos/framer-motion.svg"
+                    alt="Framer Motion"
+                    width="45"
+                  />
                 </li>
 
                 <li>
-                  <img src="https://skillicons.dev/icons?i=git" alt="Git"/>
+                  <img src="https://skillicons.dev/icons?i=git" alt="Git" />
                 </li>
 
                 <li>
-                  <img src="https://skillicons.dev/icons?i=github" alt="GitHub"/>
+                  <img
+                    src="https://skillicons.dev/icons?i=github"
+                    alt="GitHub"
+                  />
                 </li>
 
                 {/* <li><img src="https://skillicons.dev/icons?i=nodejs" alt="Nodejs"/></li> */}
                 {/* <li><img src="https://skillicons.dev/icons?i=express" alt="ExpressJs"/></li> */}
-                {/* <li><img src="https://skillicons.dev/icons?i=mongo" alt="MongoDB"/></li> */}
+                <li>
+                  <img
+                    src="https://skillicons.dev/icons?i=mongo"
+                    alt="MongoDB"
+                  />
+                </li>
                 {/* <li><img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" /></li> */}
                 {/* <li><img src="https://skillicons.dev/icons?i=aws" alt="AWS" /></li> */}
-                {/* <li><img src="https://skillicons.dev/icons?i=azure" alt="Azure" /></li> */}
               </ul>
             </div>
           </div>
