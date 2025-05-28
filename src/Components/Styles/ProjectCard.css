@@ -84,3 +84,16 @@
 .link a:hover {
   color: #147efb;
 }
+
+@media only screen and (max-width: 950px) {
+    .project-container {
+    width: auto;
+    height: 700px;
+    flex-direction: column;
+  }
+
+  .project-container {
+    width: 333px;
+    height: 700px;
+  } 
+}

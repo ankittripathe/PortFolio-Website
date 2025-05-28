@@ -2,6 +2,7 @@ import Devfinder from "../assets/Devfinder.png";
 import Moviesapp from "../assets/Moviesapp.png";
 import trendwear from '../assets/trendWear.png'
 import nexushome from '../assets/nexushome.png'
+import countdown from '../assets/countdown.png'
 
 const ProjecctApi = [
   {
@@ -29,14 +30,14 @@ const ProjecctApi = [
   },
 
   {
-    img: Devfinder,
-    heading: "DEVFINDER🐼",
+    img: countdown,
+    heading: "CountDown Timer",
     para: "DevFinder Application for GitHub user profile summaries, benefiting recruiters, project managers, and developers alike.",
     tech1: "Html",
     tech2: "Css",
     tech3: "Javascript",
-    code: "https://github.com/muku007-codes/devFinder",
-    live: "https://justdevfinder.netlify.app/",
+    code: "https://github.com/ankittripathe/CountDown-Timer",
+    live: "https://countdowntimer-project.netlify.app/",
   },
 
   {
