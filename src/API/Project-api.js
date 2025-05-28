@@ -1,8 +1,7 @@
-import Devfinder from "../assets/Devfinder.png";
-import Moviesapp from "../assets/Moviesapp.png";
 import trendwear from '../assets/trendWear.png'
 import nexushome from '../assets/nexushome.png'
 import countdown from '../assets/countdown.png'
+import studysync from '../assets/studysync.png'
 
 const ProjecctApi = [
   {
@@ -41,14 +40,14 @@ const ProjecctApi = [
   },
 
   {
-    img: Moviesapp,
-    heading: "MOVIESAPP🎬",
+    img: studysync,
+    heading: "StudySync LearningApp🎬",
     para: "MoviesApp shows the movies description & information, also provide the searching functionality.",
     tech1: "Html",
     tech2: "Css",
     tech3: "Javascript",
-    code: "https://github.com/muku007-codes/MoviesApp",
-    live: "https://muku007-codes.github.io/MoviesApp/",
+    code: "https://github.com/ankittripathe/StudySync",
+    live: "https://ankittripathe.github.io/StudySync/",
   },
 ];
 
