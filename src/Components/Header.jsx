@@ -15,7 +15,7 @@ function Header() {
   return (
     <>
       <div className="header">
-        <div className="head-name">Ankit Tripathi</div>
+        <div className="head-name">Ankit</div>
         <ul className="nav-list">
           <li className="home" id="home">
             <a href="#Home">Home</a>

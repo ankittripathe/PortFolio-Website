@@ -45,6 +45,9 @@ ul a {
 
 /* Responsiveness for Header Section*/
 @media only screen and (max-width: 950px) {
+  .header{
+      padding: 25px;
+  }
   /* For toggle menu button */
   .nav-list {
     display: none;
