@@ -1,11 +1,11 @@
-import trendwear from '../assets/trendWear.png'
-import nexushome from '../assets/nexushome.png'
-import countdown from '../assets/countdown.png'
-import studysync from '../assets/studysync.png'
+import trendWear from '../assets/trendwear.png'
+import nexusHome from '../assets/nexushome.png'
+import countDown from '../assets/countdown.png'
+import studySync from '../assets/studysync.png'
 
 const ProjecctApi = [
   {
-    img: trendwear,
+    img: trendWear,
     heading: "trendWear",
     para: "Coindom is a crypto app that allows users to search for information about various cryptocurrencies in real-time.",
     tech1: "React",
@@ -17,7 +17,7 @@ const ProjecctApi = [
   },
 
   {
-    img: nexushome,
+    img: nexusHome,
     heading: "NexusHome",
     para: "CodeFusion is a real-time code syncing application where people can contribute code in real-time. CodeFusion can overcome the sharing of large data files.",
     tech1: "React",
@@ -29,7 +29,7 @@ const ProjecctApi = [
   },
 
   {
-    img: countdown,
+    img: countDown,
     heading: "CountDown Timer",
     para: "DevFinder Application for GitHub user profile summaries, benefiting recruiters, project managers, and developers alike.",
     tech1: "Html",
@@ -40,7 +40,7 @@ const ProjecctApi = [
   },
 
   {
-    img: studysync,
+    img: studySync,
     heading: "StudySync LearningApp🎬",
     para: "MoviesApp shows the movies description & information, also provide the searching functionality.",
     tech1: "Html",
