@@ -7,7 +7,7 @@ const ProjecctApi = [
   {
     img: trendWear,
     heading: "trendWear",
-    para: "Coindom is a crypto app that allows users to search for information about various cryptocurrencies in real-time.",
+    para: "TrendWear is a modern online fashion hub where users can effortlessly browse, discover, and shop trendy clothing from top brands.",
     tech1: "React",
     tech2: "React-Router",
     tech3: "React-Icons",
