@@ -19,10 +19,9 @@ function About() {
             <div class="text-side">
               <h3>About me</h3>
               <h4>
-                {/* A dedicated Front-end Developer  based in India 📍 */}
                 Passionate Front-end Developer from India 📍
               </h4>
-              <p>
+              {/* <p>
                 As a Junior Front-End Developer, I possess an impressive arsenal
                 of skills in HTML, CSS, JavaScript, React, Tailwind, and SCSS. I
                 excel in designing and maintaining responsive websites that
@@ -32,6 +31,16 @@ function About() {
                 techniques. I am also a team player who thrives in collaborating
                 with cross-functional teams to produce outstanding web
                 applications.
+              </p> */}
+                      <p>
+                As a Junior Front-End Developer, I bring a strong skill set in
+                HTML, CSS, JavaScript, React, Tailwind CSS, and SCSS. I
+                specialize in building responsive, high-performance websites
+                that deliver seamless user experiences. With a focus on clean,
+                optimized code and modern development tools, I create dynamic
+                and visually engaging interfaces. I am also a team player who
+                thrives in collaborating with cross-functional teams to produce
+                outstanding web applications.
               </p>
             </div>
           </div>

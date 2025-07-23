@@ -19,7 +19,7 @@ function Home() {
                 </h1>
                 <p>
                   Hi, I&apos;m Ankit Tripathi. A passionate Front-end Developer
-                  based in Noida, India. 📍
+                  based in India. 📍
                 </p>
                 <span className="links">
                   <a href="https://github.com/ankittripathe/" target="_blank">
