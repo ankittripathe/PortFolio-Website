@@ -35,7 +35,7 @@ function Contact() {
                 </span>
                 <div class="contact__info">
                   <h3>Location</h3>
-                  <p>Noida, Uttar Pradesh</p>
+                  <p>Gurugram, Haryana</p>
                 </div>
               </div>
               <div class="contact__icon-box">
