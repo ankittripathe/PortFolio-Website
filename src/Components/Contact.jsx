@@ -109,7 +109,8 @@ function Contact() {
                 </span>
                 <div class="contact__info">
                   <h3>Phone</h3>
-                  <a href="">+91 9616425951</a>
+                  {/* <a href="">+91 9616425951</a> */}
+                  <p>Available On Request</p>
                 </div>
               </div>
             </div>

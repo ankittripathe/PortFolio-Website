@@ -1,4 +1,9 @@
-import profile from "../assets/Profile.jpeg";
+// import profile from "../assets/Profile.jpeg";
+// import profile from "../assets/Profile1.jpeg";
+// import profile from "../assets/Profile2.png";
+// import profile from "../assets/Profile3.jpeg";
+// import profile from "../assets/Profile4.jpeg";
+import profile from "../assets/Profile5.jpeg";
 import github from "../assets/github.png";
 import linkedin from "../assets/linkedin.png";
 import instagram from "../assets/instagram.png";
@@ -15,11 +20,11 @@ function Home() {
               <div className="hero-text">
                 <h1>
                   Front-End Developer <br />
-                  <img className="wave-hand" src={handemoji} alt="" />
+                  {/* <img className="wave-hand" src={handemoji} alt="" /> */}
                 </h1>
                 <p>
-                  Hi, I&apos;m Ankit Tripathi. A passionate Front-end Developer
-                  based in India. 📍
+                  Hi, I&apos;m Ankit Tripathi. A Self-taught passionate
+                  Front-end Developer based in India. 📍
                 </p>
                 <span className="links">
                   <a href="https://github.com/ankittripathe/" target="_blank">
