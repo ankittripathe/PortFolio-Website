@@ -19,7 +19,7 @@ function ProjectCard(props) {
             <p>{props.index.tech1}</p>
             <p>{props.index.tech2}</p>
             <p>{props.index.tech3}</p>
-            <p>{props.index.tech4}</p>
+            {/* <p>{props.index.tech4}</p> */}
             {/* <p>{props.index.tech5}</p> */}
           </div>
           <div className="link">
