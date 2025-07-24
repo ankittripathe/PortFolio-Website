@@ -99,6 +99,13 @@ function Home() {
                 </li>
 
                 <li>
+                  <img
+                    src="https://skillicons.dev/icons?i=mongo"
+                    alt="MongoDB"
+                  />
+                </li>
+
+                <li>
                   <img src="https://skillicons.dev/icons?i=git" alt="Git" />
                 </li>
 
@@ -111,8 +118,8 @@ function Home() {
 
                 <li>
                   <img
-                    src="https://skillicons.dev/icons?i=mongo"
-                    alt="MongoDB"
+                    src="https://skillicons.dev/icons?i=vercel"
+                    alt="Vercel"
                   />
                 </li>
 

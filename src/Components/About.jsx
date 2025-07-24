@@ -1,4 +1,5 @@
-import laptop from "../assets/laptop-on-table.webp";
+// import laptop from "../assets/laptop-on-table.webp";
+import laptop from '../assets/coading-on-table.jpg'
 import menemoji from "../assets/menwithmac.png";
 import circlename from "../assets/circle-name.svg";
 import "../Components/Styles/About.css";
