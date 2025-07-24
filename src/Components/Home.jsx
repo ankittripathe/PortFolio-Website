@@ -1,10 +1,11 @@
-import profile from "../assets/Profile.jpeg";
+// import profile from "../assets/Profile.jpeg";
 // import profile from "../assets/Profile1.jpeg";
 // import profile from "../assets/Profile2.png";
 // import profile from "../assets/Profile3.jpeg";
 // import profile from "../assets/Profile4.jpeg";
 // import profile from "../assets/Profile5.jpeg";
 // import profile from "../assets/Profile6.png";
+import profile from "../assets/Profile7.jpg";
 import github from "../assets/github.png";
 import linkedin from "../assets/linkedin.png";
 import instagram from "../assets/instagram.png";
