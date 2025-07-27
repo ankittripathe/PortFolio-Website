@@ -1,5 +1,5 @@
 // import laptop from "../assets/laptop-on-table.webp";
-import laptop from '../assets/coading-on-table.jpg'
+import laptop from "../assets/coading-on-table.jpg";
 import menemoji from "../assets/menwithmac.png";
 import circlename from "../assets/circle-name.svg";
 import "../Components/Styles/About.css";
@@ -19,9 +19,7 @@ function About() {
             </div>
             <div class="text-side">
               <h3>About me</h3>
-              <h4>
-                Passionate Front-end Developer from India 📍
-              </h4>
+              <h4>Passionate Front-end Developer from India 📍</h4>
               {/* <p>
                 As a Junior Front-End Developer, I possess an impressive arsenal
                 of skills in HTML, CSS, JavaScript, React, Tailwind, and SCSS. I
@@ -33,9 +31,9 @@ function About() {
                 with cross-functional teams to produce outstanding web
                 applications.
               </p> */}
-                      <p>
+              <p>
                 As a Junior Front-End Developer, I bring a strong skill set in
-                HTML, CSS, JavaScript, React, Tailwind CSS, and SCSS. I
+                HTML, CSS, JavaScript, React, Tailwind CSS, SCSS and Framer Motion. I
                 specialize in building responsive, high-performance websites
                 that deliver seamless user experiences. With a focus on clean,
                 optimized code and modern development tools, I create dynamic
