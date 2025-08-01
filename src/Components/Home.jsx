@@ -12,7 +12,7 @@ import instagram from "../assets/instagram.png";
 import handemoji from "../assets/wave-hand.png";
 import "../Components/Styles/Home.css";
 
-function Home() {
+const Home = () => {
   return (
     <>
       <section id="Home" className="hero">
@@ -136,6 +136,6 @@ function Home() {
       </section>
     </>
   );
-}
+};
 
 export default Home;

@@ -1,10 +1,9 @@
-/* eslint-disable no-unused-vars */
-import React, { useState } from "react";
+import { useState } from "react";
 import menu from "../assets/menu.png";
 import close from "../assets/close.png";
 import "../Components/Styles/Header.css";
 
-function Header() {
+const Header=()=> {
   const [menubtn, setMenubtn] = useState(false);
 
   function toggle() {

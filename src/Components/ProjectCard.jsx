@@ -1,7 +1,6 @@
-import React from "react";
 import '../Components/Styles/ProjectCard.css'
 
-function ProjectCard(props) {
+const ProjectCard=(props)=> {
   // console.log(props.tech1);
   return (
     <>
