@@ -1,7 +1,6 @@
-import React from "react";
-import '../Components/Styles/Contact.css'
+import "../Components/Styles/Contact.css";
 
-function Contact() {
+const Contact = () => {
   return (
     <>
       <section id="Contact" class="contact">
@@ -58,7 +57,7 @@ function Contact() {
                 </span>
                 <div class="contact__info">
                   <h3>Mail</h3>
-                  <a href="mailto:dev.mukeshgehlot@gmail.com">
+                  <a href="mailto:ankittripathe@gmail.com">
                     ankittripathe@gmail.com
                   </a>
                 </div>
@@ -119,6 +118,6 @@ function Contact() {
       </section>
     </>
   );
-}
+};
 
 export default Contact;
