@@ -12,7 +12,7 @@ const App =()=> {
       {/* <Home /> */}
       {/* <About /> */}
       {/* <Projects /> */}
-      {/* <Contact /> */}
+      <Contact />
       <Footer />
     </>
   );
