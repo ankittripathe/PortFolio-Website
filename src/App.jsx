@@ -8,7 +8,7 @@ import Footer from "./Components/Footer";
 const App =()=> {
   return (
     <>
-      <Header />
+      {/* <Header /> */}
       <Home />
       <About />
       {/* <Projects /> */}
