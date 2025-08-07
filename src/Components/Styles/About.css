@@ -133,7 +133,7 @@
   .work-emoji {
     bottom: -15px;
     position: absolute;
-    right: 26px;
+    /* right: 26px; */
     width: 4rem !important;
     z-index: 1;
   }
