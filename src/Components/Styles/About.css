@@ -22,6 +22,7 @@
   z-index: 1;
 }
 
+/*  */
 .img-side span img {
   -webkit-animation: rotate 9s linear infinite;
   animation: rotate 9s linear infinite;
@@ -38,7 +39,7 @@
 }
 
 .img-side {
-  position: relative;
+  /* position: relative; */
 }
 
 .img-side span {
