@@ -9,10 +9,10 @@ const App =()=> {
   return (
     <>
       {/* <Header /> */}
-      <Home />
-      <About />
-      <Projects />
-      <Contact />
+      {/* <Home /> */}
+      {/* <About /> */}
+      {/* <Projects /> */}
+      {/* <Contact /> */}
       <Footer />
     </>
   );
