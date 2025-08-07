@@ -26,7 +26,7 @@ const Home = () => {
                 </h1>
                 <p>
                   Hi, I&apos;m Ankit Tripathi. A Self-taught passionate
-                  Front-end Developer based in India. 📍
+                  Front-end  Developer based in India. 📍
                 </p>
                 <span className="links">
                   <a href="https://github.com/ankittripathe/" target="_blank">
