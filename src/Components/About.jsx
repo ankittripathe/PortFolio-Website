@@ -14,7 +14,7 @@ const About =()=> {
               <img src={menemoji} alt="emoji" className="work-emoji" />
               <img src={laptop} alt="mee" id="img-side__main-img" />
               <span>
-                {/* <img src={circlename} alt="text" /> */}
+                <img src={circlename} alt="text" />
               </span>
             </div>
             <div class="text-side">
