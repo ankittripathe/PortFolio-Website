@@ -13,10 +13,10 @@ const Projects = () => {
               <p className="project-heading">PORTFOLIO</p>
               <h3>Each project is a unique piece of development 🧩</h3>
             </div>
-            <ProjectCard index={ProjecctApi[0]} />
-            <ProjectCard index={ProjecctApi[1]} />
-            <ProjectCard index={ProjecctApi[2]} />
-            <ProjectCard index={ProjecctApi[3]} />
+            {/* <ProjectCard index={ProjecctApi[0]} /> */}
+            {/* <ProjectCard index={ProjecctApi[1]} /> */}
+            {/* <ProjectCard index={ProjecctApi[2]} /> */}
+            {/* <ProjectCard index={ProjecctApi[3]} /> */}
           </div>
         </div>
       </section>
