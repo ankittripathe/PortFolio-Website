@@ -3,7 +3,7 @@ import nexusHome from "../assets/nexushome.png";
 import countDown from "../assets/countdown.png";
 import studyWell from "../assets/studywell.png";
 
-const ProjecctApi = [
+const ProjectData = [
   {
     img: trendWear,
     heading: "trendWear",
@@ -51,4 +51,4 @@ const ProjecctApi = [
   },
 ];
 
-export default ProjecctApi;
+export default ProjectData;

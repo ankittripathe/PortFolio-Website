@@ -5,7 +5,7 @@
   width: 100%;
   display: flex;
   flex-direction: column;
-  /* justify-content: center;  */
+  justify-content: center; 
   align-items: center;
 }
 
@@ -21,8 +21,9 @@
   color: #147efb;
   font-size: 1.7rem;
   font-weight: 700;
-  list-style: 5;
+  /* list-style: 5; */
 }
+
 .project-info-container div h3 {
   font-size: 1.5rem;
 }
@@ -34,8 +35,9 @@
   }
 
   .project-info-container {
-    align-items: center;
+    /* align-items: center; */
   }
+
   /* 
   .project-container {
     width: auto;
