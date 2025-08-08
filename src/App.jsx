@@ -5,7 +5,7 @@ import Projects from "./Components/Projects";
 import Contact from "./Components/Contact";
 import Footer from "./Components/Footer";
 
-const App =()=> {
+const App = () => {
   return (
     <>
       <Header />
@@ -16,6 +16,6 @@ const App =()=> {
       <Footer />
     </>
   );
-}
+};
 
 export default App;
