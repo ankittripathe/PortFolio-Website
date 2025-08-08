@@ -112,36 +112,20 @@
     text-align: center;
   }
 
-  /* .img-side span {
-    bottom: -40px;
-    right: 4px;
-    height: 8rem;
-    width: 8rem;
-  } */
-
-  /* testing */
   .img-side span img {
-    width: 95%;
-    height: auto;
+    width: 96%;
   }
 
-  /* .work-emoji {
-    bottom: -10px;
-    right: 2rem;
-    width: 4rem !important;
-  } */
-
-  /* testing */
   .img-side span {
-    bottom: -30px; 
-    right: 0; 
-    height: 7rem; 
+    bottom: -30px;
+    right: 0;
+    height: 7rem;
     width: 7rem;
   }
 
   .work-emoji {
-    bottom: -2px; 
-    right: 27px; 
-    width: 3.5rem !important; 
-  } 
+    bottom: -1px;
+    right: 27px;
+    width: 3.5rem !important;
+  }
 }
