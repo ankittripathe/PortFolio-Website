@@ -121,16 +121,17 @@
 
   /* testing */
   .img-side span img {
-    display: none;
+    /* display: none; */
 
-}
+    width: 95%;
+  height: auto;
+  }
 
   .work-emoji {
     bottom: -10px;
     right: 2rem;
     width: 4rem !important;
   }
-
 
   /* testing */
   .img-side span {
@@ -145,5 +146,4 @@
     right: 1rem; /* Slightly shifted */
     width: 3.5rem !important; /* was 4rem */
   }
-
 }
