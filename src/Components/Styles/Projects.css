@@ -12,7 +12,7 @@
 .project-info-container {
   display: flex;
   flex-direction: column;
-  /* justify-content: center; */
+  justify-content: center;
   gap: 5rem;
   /* align-items: left; */
 }
