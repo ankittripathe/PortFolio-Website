@@ -32,7 +32,7 @@
 
 .project-info {
   border-radius: 1.7rem;
-  padding: 0 2rem;
+  padding: 0 32px;
   width: 380px;
   height: 360px;
   display: flex;
@@ -43,15 +43,17 @@
 
 .project-info p {
   text-align: center;
-  font-size: 0.9rem;
+  font-size: 1rem;
 }
 
 .stack {
   display: flex;
+  justify-content: space-evenly;
   flex-direction: row;
   align-items: center;
   justify-content: space-between;
   flex-wrap: wrap;
+  gap: 0.75rem;
 }
 
 .stack p {
@@ -91,14 +93,23 @@
     max-width: 333px;
     height: auto;
     flex-direction: column;
-    /* background-color: yellow; */
-    margin: 0 auto; /* Center it */
+    margin: 0 auto;
   }
 
   .preview {
     width: 100%;
-    /* width: 300px; */
-     max-width: 300px;
+    max-width: 300px;
     height: 270px;
+  }
+
+  .project-info {
+    width: 100%;
+    max-width: 100%;
+    justify-content: space-evenly;
+    padding: 0 20px;
+  }
+
+  .stack {
+    gap: 0.45rem;
   }
 }
