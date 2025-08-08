@@ -8,6 +8,7 @@ const Footer = () => {
           <div class="footerc">
             <h3>Copyright © 2025. All rights are reserved</h3>
             <div class="footerc__socials">
+              {/* Linkedin */}
               <a
                 aria-label="linkedin"
                 target="_blank"
@@ -34,6 +35,7 @@ const Footer = () => {
                 </svg>
               </a>
 
+              {/* Github */}
               <a
                 aria-label="github"
                 target="_blank"
@@ -53,6 +55,31 @@ const Footer = () => {
                   class="tabler-icon tabler-icon-brand-github"
                 >
                   <path d="M9 19c-4.3 1.4 -4.3 -2.5 -6 -3m12 5v-3.5c0 -1 .1 -1.4 -.5 -2c2.8 -.3 5.5 -1.4 5.5 -6a4.6 4.6 0 0 0 -1.3 -3.2a4.2 4.2 0 0 0 -.1 -3.2s-1.1 -.3 -3.5 1.3a12.3 12.3 0 0 0 -6.2 0c-2.4 -1.6 -3.5 -1.3 -3.5 -1.3a4.2 4.2 0 0 0 -.1 3.2a4.6 4.6 0 0 0 -1.3 3.2c0 4.6 2.7 5.7 5.5 6c-.6 .6 -.6 1.2 -.5 2v3.5"></path>
+                </svg>
+              </a>
+
+              {/* Instagram */}
+              <a
+                aria-label="instagram"
+                target="_blank"
+                rel="noreferrer"
+                href="https://www.instagram.com/ankit_tripathee"
+              >
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="30"
+                  height="30"
+                  viewBox="0 0 24 24"
+                  fill="none"
+                  stroke="currentColor"
+                  stroke-width="2"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  class="tabler-icon tabler-icon-brand-instagram"
+                >
+                  <rect x="4" y="4" width="16" height="16" rx="4"></rect>
+                  <path d="M8.5 12.5a3.5 3.5 0 1 0 7 0a3.5 3.5 0 0 0 -7 0"></path>
+                  <path d="M17.5 6.5l0 .01"></path>
                 </svg>
               </a>
             </div>
