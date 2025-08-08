@@ -119,6 +119,12 @@
     width: 8rem;
   }
 
+  /* testing */
+  .img-side span img {
+    display: none;
+
+}
+
   .work-emoji {
     bottom: -10px;
     right: 2rem;
@@ -140,26 +146,4 @@
     width: 3.5rem !important; /* was 4rem */
   }
 
-
-    .img-side {
-    position: relative;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-  }
-
-  .img-side span {
-    bottom: -26px; /* slightly higher */
-    right: -10px; /* keep distance from emoji */
-    height: 6.5rem;
-    width: 6.5rem;
-    z-index: 1;
-  }
-
-  .work-emoji {
-    bottom: -6px;
-    right: 1rem;
-    width: 3.5rem !important;
-    z-index: 2;
-  }
 }
