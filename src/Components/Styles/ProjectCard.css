@@ -88,22 +88,21 @@
 @media only screen and (max-width: 950px) {
   /* .project-container {
     width: auto;
+    width: 333px;
     height: 700px;
     flex-direction: column;
     background-color: yellow;
     box-sizing: border-box;
   }
-
-  .project-container {
-    width: 333px;
-    height: 700px;
-  } */
+  */
 
   .project-container {
     width: 100%;
     max-width: 333px;
     height: auto;
+        flex-direction: column;
     margin: 0 auto; /* Center it */
+        background-color: yellow;
   }
 
   .preview {
