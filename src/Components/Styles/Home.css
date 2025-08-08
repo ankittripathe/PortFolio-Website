@@ -124,8 +124,6 @@
     flex-direction: column-reverse;
     text-align: center;
     height: auto;
-    /* padding-top: 15rem; */
-    /* padding-left: 2rem; */
     text-wrap: wrap;
   }
 
@@ -134,7 +132,7 @@
   }
 
   .hero-text h1 {
-    font-size: 2rem;
+    font-size: 30px;
   }
 
   .skills {
