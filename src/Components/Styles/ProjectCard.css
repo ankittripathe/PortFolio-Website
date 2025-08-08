@@ -86,16 +86,24 @@
 }
 
 @media only screen and (max-width: 950px) {
-  .project-container {
+  /* .project-container {
     width: auto;
     height: 700px;
     flex-direction: column;
     background-color: yellow;
+    box-sizing: border-box;
   }
 
   .project-container {
     width: 333px;
     height: 700px;
+  } */
+
+  .project-container {
+    width: 100%;
+    max-width: 333px;
+    height: auto;
+    margin: 0 auto; /* Center it */
   }
 
   .preview {
