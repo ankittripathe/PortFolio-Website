@@ -91,7 +91,7 @@
     max-width: 333px;
     height: auto;
     flex-direction: column;
-    background-color: yellow;
+    /* background-color: yellow; */
     margin: 0 auto; /* Center it */
   }
 
