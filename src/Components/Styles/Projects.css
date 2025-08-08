@@ -29,17 +29,15 @@
 /* Responsiveness for Project section */
 @media only screen and (max-width: 950px) {
   .Projects {
-    padding: 5rem 0;
+    /* padding: 5rem 0; */
+    padding: 5rem 1rem;
   }
 
   .project-info-container {
     align-items: center;
   }
 
-  .project-heading {
-    text-align: center;
-  }
-
+  .project-heading,
   .project-info-container div h3 {
     text-align: center;
   }
