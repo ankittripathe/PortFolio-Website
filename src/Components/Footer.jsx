@@ -79,7 +79,6 @@ const Footer = () => {
                 >
                   <rect x="4" y="4" width="16" height="16" rx="4"></rect>
                   <path d="M8.5 12.5a3.5 3.5 0 1 0 7 0a3.5 3.5 0 0 0 -7 0"></path>
-                  <path d="M17.5 6.5l0 .01"></path>
                 </svg>
               </a>
             </div>
