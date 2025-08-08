@@ -124,4 +124,19 @@
     right: 2rem;
     width: 4rem !important;
   }
+
+
+  
+  .img-side span {
+    bottom: -30px; /* was -40px */
+    right: 0; /* Center it better */
+    height: 7rem; /* was 8rem */
+    width: 7rem;
+  }
+
+  .work-emoji {
+    bottom: -6px; /* was -10px */
+    right: 1rem; /* Slightly shifted */
+    width: 3.5rem !important; /* was 4rem */
+  }
 }
