@@ -17,7 +17,7 @@
   /* align-items: left; */
 }
 
-/* no problem */
+
 .project-heading {
   color: #147efb;
   font-size: 1.7rem;
@@ -28,6 +28,7 @@
   font-size: 1.5rem;
 }
 
+
 /* Responsiveness for Project section */
 @media only screen and (max-width: 950px) {
   .Projects {
@@ -35,7 +36,7 @@
   }
 
   .project-info-container {
-    /* align-items: center; */
+    align-items: center;
   }
 
   /* 
@@ -55,16 +56,11 @@
     height: 270px;
   }
 
-  .project-info-container {
-    /* padding-left: 1rem; */ /* error*/
-  }
-
   .project-heading {
     text-align: center;
   }
 
   .project-info-container div h3 {
     text-align: center;
-    /* font-size: 1.4rem; */
   }
 }
