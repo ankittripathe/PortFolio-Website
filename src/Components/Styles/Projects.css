@@ -5,7 +5,7 @@
   width: 100%;
   display: flex;
   flex-direction: column;
-  justify-content: center; 
+  justify-content: center;
   align-items: center;
 }
 
@@ -17,11 +17,11 @@
   /* align-items: left; */
 }
 
+/* no problem */
 .project-heading {
   color: #147efb;
   font-size: 1.7rem;
   font-weight: 700;
-  /* list-style: 5; */
 }
 
 .project-info-container div h3 {
@@ -65,5 +65,6 @@
 
   .project-info-container div h3 {
     text-align: center;
+    font-size: 1.4rem;
   }
 }
