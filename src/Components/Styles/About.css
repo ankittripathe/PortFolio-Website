@@ -117,32 +117,23 @@
     right: -6px;
     height: 8rem;
     width: 8rem;
-    position: absolute;
   } */
+
+  .img-side span {
+    bottom: -3.5rem;
+    right: -5px;
+    height: 8rem;
+    width: 8rem;
+  }
 
   /* .img-side span img {
     width: 8rem;
   } */
 
-  /* .work-emoji {
-    bottom: -15px;
-    position: absolute;
-    right: 26px;
-    width: 4rem !important;
-    z-index: 1;
-  } */
-
-  .img-side span {
-    bottom: -3.5rem;
-    right: -1rem;
-    height: 6rem;
-    width: 6rem;
-  }
-
-  .img-side span img {
+  /* .img-side span img {
     width: 100%;
     height: auto;
-  }
+  } */
 
   .work-emoji {
     bottom: -1rem;
