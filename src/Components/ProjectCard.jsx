@@ -1,6 +1,6 @@
-import '../Components/Styles/ProjectCard.css'
+import "../Components/Styles/ProjectCard.css";
 
-const ProjectCard=(props)=> {
+const ProjectCard = (props) => {
   // console.log(props.tech1);
   return (
     <>
@@ -13,17 +13,16 @@ const ProjectCard=(props)=> {
             {props.index.heading} <span className="date-class"></span>
           </h3>
           <p>{props.index.para}</p>
-          
+
           <div className="stack">
             <p>{props.index.tech1}</p>
             <p>{props.index.tech2}</p>
             <p>{props.index.tech3}</p>
             {/* <p>{props.index.tech4}</p> */}
-            {/* <p>{props.index.tech5}</p> */}
           </div>
           <div className="link">
             <a href={props.index.code} target="_blank">
-              Code 
+              Code
               <svg
                 xmlns="http://www.w3.org/2000/svg"
                 width="24"
@@ -63,6 +62,6 @@ const ProjectCard=(props)=> {
       </div>
     </>
   );
-}
+};
 
 export default ProjectCard;
