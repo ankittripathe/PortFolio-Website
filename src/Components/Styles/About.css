@@ -26,45 +26,26 @@
 .work-emoji {
   bottom: -12px;
   position: absolute;
-  right: 49px;
+  right: 38px;
   width: 6rem !important;
   z-index: 1;
 }
 
-/*  */
-
-/* .img-side span {
-  background-color: #fff;
-  border-radius: 50%;
-  bottom: -70px;
-  right: 0px;
-  height: 12rem;
-  width: 12rem;
-  position: absolute;
-} */
-
-/* updated code */
 .img-side span {
   background-color: #fff;
   border-radius: 50%;
-  bottom: -4rem;
-  right: -1rem;
-  height: 8rem;
-  width: 8rem;
+  bottom: -64px;
+  right: -16px;
+  height: 12rem;
+  width: 12rem;
   position: absolute;
   display: flex;
   justify-content: center;
   align-items: center;
 }
 
-/* .img-side span img {
-  -webkit-animation: rotate 9s linear infinite;
-  animation: rotate 9s linear infinite;
-  width: 12rem;
-} */
-
-/* updated code */
 .img-side span img {
+  -webkit-animation: rotate 9s linear infinite;
   animation: rotate 9s linear infinite;
   width: 100%;
   height: auto;
@@ -100,12 +81,6 @@
   font-size: 1rem;
   font-weight: 500;
   line-height: 1.5;
-}
-
-.img-side__main-img {
-  border-radius: 1.7rem;
-  height: 35rem;
-  width: 41rem;
 }
 
 /* Responsivenes for About Section */
