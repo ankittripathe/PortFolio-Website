@@ -1,21 +1,15 @@
 import profile from "../assets/Profile.jpeg";
-// import profile from "../assets/Profile1.jpeg";
-// import profile from "../assets/Profile2.png";
-// import profile from "../assets/Profile3.jpeg";
-// import profile from "../assets/Profile4.jpeg";
-// import profile from "../assets/Profile5.jpeg";
-// import profile from "../assets/Profile6.png";
-// import profile from "../assets/Profile7.jpg";
 import github from "../assets/github.png";
 import linkedin from "../assets/linkedin.png";
 import instagram from "../assets/instagram.png";
 // import handemoji from "../assets/wave-hand.png";
 import "../Components/Styles/Home.css";
+import DownloadResumeButton from "./DownloadResumeButton";
 
 const Home = () => {
   return (
     <>
-      <section className="hero" id="Home" >
+      <section className="hero" id="Home">
         <div className="container">
           <div className="content">
             <div className="hero-main">
@@ -43,6 +37,15 @@ const Home = () => {
                     target="_blank"
                   >
                     <img src={instagram} alt="Instagram" />
+                  </a>
+
+                  {/* downloadicon */}
+                  <a href="" target="_blank">
+                    {/* <img src={downloadIcon} alt="downloadIcon" /> */}
+                  </a>
+               
+                  <a href="">
+                    <DownloadResumeButton />
                   </a>
                 </span>
               </div>
