@@ -9,7 +9,7 @@ import profile from "../assets/Profile.jpeg";
 import github from "../assets/github.png";
 import linkedin from "../assets/linkedin.png";
 import instagram from "../assets/instagram.png";
-import handemoji from "../assets/wave-hand.png";
+// import handemoji from "../assets/wave-hand.png";
 import "../Components/Styles/Home.css";
 
 const Home = () => {
@@ -26,7 +26,7 @@ const Home = () => {
                 </h1>
                 <p>
                   Hi, I&apos;m Ankit Tripathi. A Self-taught passionate
-                  Front-end  Developer based in India. 📍
+                  Front-end Developer based in India. 📍
                 </p>
                 <span className="links">
                   <a href="https://github.com/ankittripathe/" target="_blank">

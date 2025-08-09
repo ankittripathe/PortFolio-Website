@@ -10,7 +10,7 @@ const ProjectCard = (props) => {
         </div>
         <div className="project-info">
           <h3 className="project-name">
-            {props.index.heading} 
+            {props.index.heading}
             <span className="date-class"></span>
           </h3>
           <p>{props.index.para}</p>
