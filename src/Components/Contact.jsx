@@ -3,15 +3,15 @@ import "../Components/Styles/Contact.css";
 const Contact = () => {
   return (
     <>
-      <section class="contact" id="Contact">
-        <div class="contact-container">
-          <div class="contact__content">
-            <div class="contact__title">
+      <section className="contact" id="Contact">
+        <div className="contact-container">
+          <div className="contact__content">
+            <div className="contact__title">
               <p>contact</p>
               <h3>Don't be shy! Hit me up! 👇</h3>
             </div>
-            <div class="contact__icons">
-              <div class="contact__icon-box">
+            <div className="contact__icons">
+              <div className="contact__icon-box">
                 <span>
                   <svg
                     xmlns="http://www.w3.org/2000/svg"
@@ -20,10 +20,10 @@ const Contact = () => {
                     viewBox="0 0 24 24"
                     fill="none"
                     stroke="currentColor"
-                    stroke-width="2"
-                    stroke-linecap="round"
-                    stroke-linejoin="round"
-                    class="tabler-icon tabler-icon-map-search"
+                    strokeWidth="2"
+                    strokeLinecap="round"
+                    strokeLinejoin="round"
+                    className="tabler-icon tabler-icon-map-search"
                   >
                     <path d="M11 18l-2 -1l-6 3v-13l6 -3l6 3l6 -3v7.5"></path>
                     <path d="M9 4v13"></path>
@@ -32,12 +32,12 @@ const Contact = () => {
                     <path d="M20.2 20.2l1.8 1.8"></path>
                   </svg>
                 </span>
-                <div class="contact__info">
+                <div className="contact__info">
                   <h3>Location</h3>
                   <p>Gurugram, Haryana</p>
                 </div>
               </div>
-              <div class="contact__icon-box">
+              <div className="contact__icon-box">
                 <span>
                   <svg
                     xmlns="http://www.w3.org/2000/svg"
@@ -46,16 +46,16 @@ const Contact = () => {
                     viewBox="0 0 24 24"
                     fill="none"
                     stroke="currentColor"
-                    stroke-width="2"
-                    stroke-linecap="round"
-                    stroke-linejoin="round"
-                    class="tabler-icon tabler-icon-mail"
+                    strokeWidth="2"
+                    strokeLinecap="round"
+                    strokeLinejoin="round"
+                    className="tabler-icon tabler-icon-mail"
                   >
                     <path d="M3 7a2 2 0 0 1 2 -2h14a2 2 0 0 1 2 2v10a2 2 0 0 1 -2 2h-14a2 2 0 0 1 -2 -2v-10z"></path>
                     <path d="M3 7l9 6l9 -6"></path>
                   </svg>
                 </span>
-                <div class="contact__info">
+                <div className="contact__info">
                   <h3>Mail</h3>
                   <a href="mailto:ankittripathe@gmail.com">
                     ankittripathe@gmail.com
@@ -71,9 +71,9 @@ const Contact = () => {
                     version="1.1"
                     id="Capa_1"
                     xmlns="http://www.w3.org/2000/svg"
-                    xmlns:xlink="http://www.w3.org/1999/xlink"
+                    xmlnsXlink="http://www.w3.org/1999/xlink"
                     viewBox="0 0 473.806 473.806"
-                    xml:space="preserve"
+                    xmlSpace="preserve"
                     color="#147efb"
                   >
                     <path
@@ -99,6 +99,7 @@ const Contact = () => {
 			c7.4-1.2,12.3-8.2,11.1-15.6c-5.4-31.7-20.4-60.6-43.3-83.5s-51.8-37.9-83.5-43.3c-7.4-1.2-14.3,3.7-15.6,11
 			S248.656,111.506,256.056,112.706z "
                     />
+
                     <path
                       d="M473.256,209.006c-8.9-52.2-33.5-99.7-71.3-137.5s-85.3-62.4-137.5-71.3c-7.3-1.3-14.2,3.7-15.5,11
 			c-1.2,7.4,3.7,14.3,11.1,15.6c46.6,7.9,89.1,30,122.9,63.7c33.8,33.8,55.8,76.3,63.7,122.9c1.1,6.6,6.8,11.2,13.3,11.2
@@ -106,7 +107,8 @@ const Contact = () => {
                     />
                   </svg>
                 </span>
-                <div class="contact__info">
+
+                <div className="contact__info">
                   <h3>Phone</h3>
                   {/* <a href="">+91 9616425951</a> */}
                   <p>Available On Request</p>

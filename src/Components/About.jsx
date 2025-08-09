@@ -7,17 +7,17 @@ import "../Components/Styles/About.css";
 const About = () => {
   return (
     <>
-      <section class="about-sec" id="About">
-        <div class="container2">
-          <div class="about-content">
-            <div class="img-side">
+      <section className="about-sec" id="About">
+        <div className="container2">
+          <div className="about-content">
+            <div className="img-side">
               <img src={menemoji} alt="emoji" className="work-emoji" />
               <img src={laptop} alt="mee" id="img-side__main-img" />
               <span>
                 <img src={circlename} alt="text" />
               </span>
             </div>
-            <div class="text-side">
+            <div className="text-side">
               <h3>About me</h3>
               <h4>Passionate Front-end Developer from India 📍</h4>
               <p>

@@ -326,18 +326,5 @@ function App() {
 ```
 
 
-## Used By
-
-This project is used by the following companies:
-
-- Company 1
-- Company 2
-
-
-## Roadmap
-
-- Additional browser support
-
-- Add more integrations
 
 

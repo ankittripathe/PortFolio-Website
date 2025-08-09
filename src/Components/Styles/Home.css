@@ -108,9 +108,14 @@
 }
 
 .links a img {
-  height: 32px;
+  height: 36px;
   width: auto;
   padding-right: 1rem;
+}
+
+/* testing */
+.links {
+  display: flex;
 }
 
 /* Responsivess For Home Section */
@@ -154,5 +159,10 @@
   .profile-img {
     width: 300px;
     height: 300px;
+  }
+
+  /* testing */
+  .links {
+    justify-content: center;
   }
 }
