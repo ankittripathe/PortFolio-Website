@@ -1,18 +1,21 @@
+import { Route, Routes } from "react-router-dom";
 import Header from "./Components/Header";
-import Home from "./Components/Home";
-import About from "./Components/About";
-import Projects from "./Components/Projects";
-import Contact from "./Components/Contact";
 import Footer from "./Components/Footer";
+import HomePage from "./Pages/HomePage";
+import AboutPage from "./Pages/AboutPage";
+import ProjectsPage from "./Pages/ProjectsPage";
+import ContactPage from "./Pages/ContactPage";
 
 const App = () => {
   return (
     <>
       <Header />
-      <Home />
-      <About />
-      <Projects />
-      <Contact />
+      <Routes>
+        <Route path="/" element={<HomePage />} />
+        <Route path="/about" element={<AboutPage />} />
+        <Route path="/projects" element={<ProjectsPage />} />
+        <Route path="/contact" element={<ContactPage />} />
+      </Routes>
       <Footer />
     </>
   );
