@@ -3,7 +3,7 @@ import menu from "../assets/menu.png";
 import close from "../assets/close.png";
 import "../Components/Styles/Header.css";
 
-const Header=()=> {
+const Header = () => {
   const [menubtn, setMenubtn] = useState(false);
 
   function toggle() {
@@ -58,6 +58,6 @@ const Header=()=> {
       ) : null}
     </>
   );
-}
+};
 
 export default Header;
