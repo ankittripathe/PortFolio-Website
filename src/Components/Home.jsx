@@ -15,7 +15,7 @@ import "../Components/Styles/Home.css";
 const Home = () => {
   return (
     <>
-      <section id="Home" className="hero">
+      <section className="hero" id="Home" >
         <div className="container">
           <div className="content">
             <div className="hero-main">
