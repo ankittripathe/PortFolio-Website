@@ -27,7 +27,7 @@
 }
 
 .nav-list li a:hover {
-  color: rgba(240, 46, 170, 0.4);
+  color: rgba(255, 69, 0, 0.7);
 }
 
 .menu-button {
@@ -45,8 +45,8 @@ ul a {
 
 /* Responsiveness for Header Section*/
 @media only screen and (max-width: 950px) {
-  .header{
-      padding: 25px;
+  .header {
+    padding: 25px;
   }
   /* For toggle menu button */
   .nav-list {
@@ -77,13 +77,13 @@ ul a {
     border: 0.5px solid black;
     border-radius: 30px;
     font-weight: 600;
-    box-shadow: rgba(240, 46, 170, 0.4) 5px 5px,
-      rgba(240, 46, 170, 0.3) 10px 10px, rgba(240, 46, 170, 0.2) 15px 15px,
-      rgba(240, 46, 170, 0.1) 20px 20px, rgba(240, 46, 170, 0.05) 25px 25px;
+    box-shadow: rgba(255, 69, 0, 0.4) 5px 5px, rgba(255, 69, 0, 0.3) 10px 10px,
+      rgba(255, 69, 0, 0.2) 15px 15px, rgba(255, 69, 0, 0.1) 20px 20px,
+      rgba(255, 69, 0, 0.05) 25px 25px;
   }
 
   .res-nav-list li a:hover {
-    color: rgba(240, 46, 170, 0.4);
+    color: rgba(255, 69, 0, 0.7);
   }
 
   /* For menu button */
