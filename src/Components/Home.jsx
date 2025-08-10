@@ -4,8 +4,7 @@ import linkedin from "../assets/linkedin.png";
 import instagram from "../assets/instagram.png";
 // import handemoji from "../assets/wave-hand.png";
 import "../Components/Styles/Home.css";
-import DownloadResumeButton from "./DownloadResumeButton";
-import downloadIcon from "../assets/download/download1.png";
+import DownloadResume from "./DownloadResume";
 
 const Home = () => {
   return (
@@ -40,40 +39,9 @@ const Home = () => {
                     <img src={instagram} alt="Instagram" />
                   </a>
 
-                  {/* downloadicon */}
-                  <a href="" target="_blank">
-                    {/* <img src={downloadIcon} alt="downloadIcon" /> */}
+                  <a href="/resume/ANKIT.pdf" download>
+                    <DownloadResume />
                   </a>
-
-                  {/* <a href="" className="resume-btn desktop-only">
-                    <DownloadResumeButton />
-                  </a> */}
-
-                  <div className="resume-btn desktop-only">
-                    <DownloadResumeButton />
-                  </div>
-
-                  {/* Desktop Resume Button */}
-                  {/* <div className="resume-btn desktop-only">
-                    <DownloadResumeButton />
-                  </div> */}
-
-                  {/* Mobile Resume Icon */}
-                  {/* <div > */}
-                  <a
-                    href="/resume/ANKIT.pdf"
-                    download
-                    className="resume-icon mobile-only"
-                  >
-                    <img
-                      src={downloadIcon}
-                      alt="Download Resume"
-                      // width="75px"
-                      height="90px"
-                      style={{ height: "45px", width: "63px" }}
-                    />
-                  </a>
-                  {/* </div> */}
                 </span>
               </div>
               <img className="profile-img" src={profile} alt="Profile-Image" />

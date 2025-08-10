@@ -1,5 +1,6 @@
 import { useState, useEffect } from "react";
 import { FaArrowUp } from "react-icons/fa";
+import "../Components/Styles/ScrollToTopBehaviour.css";
 
 const ScrollToTopBehaviour = () => {
   const [visible, setVisible] = useState(false);
@@ -18,7 +19,6 @@ const ScrollToTopBehaviour = () => {
     return () => window.removeEventListener("scroll", toggleVisibility);
   }, []);
 
-
   const scrollToTop = () => {
     window.scrollTo({
       top: 0,
@@ -28,27 +28,7 @@ const ScrollToTopBehaviour = () => {
 
   return (
     visible && (
-      <button
-        onClick={scrollToTop}
-        style={{
-          position: "fixed",
-          bottom: "36px",
-          right: "20px",
-          backgroundColor: "black",
-          color: "white",
-          border: "none",
-          // borderRadius: "50%" ,
-          borderRadius:'20px',
-          width: "46px",
-          height: "46px",
-          display: "flex",
-          alignItems: "center",
-          justifyContent: "center",
-          cursor: "pointer",
-          boxShadow: "0 4px 6px rgba(0,0,0,0.5)",
-          zIndex: 999,
-        }}
-      >
+      <button onClick={scrollToTop} className="scrollToTop">
         <FaArrowUp size={24} />
       </button>
     )

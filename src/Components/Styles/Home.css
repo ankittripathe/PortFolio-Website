@@ -110,29 +110,13 @@
 .links a img {
   height: 36px;
   width: auto;
-  /* padding-right: 1rem; */
 }
 
 .links {
   display: flex;
-  gap: 14px;
-    align-items: center; ///
+  gap: 16px;
 }
 
-.links a,
-.links .resume-btn {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-
-/* testing */
-.desktop-only {
-  display: block;
-}
-.mobile-only {
-  display: none;
-}
 
 /* Responsivess For Home Section */
 @media only screen and (max-width: 950px) {
@@ -178,15 +162,7 @@
   }
 
   .links {
-    align-items: center;
     justify-content: center;
-  }
-
-  /* testing */
-    .desktop-only {
-    display: none;
-  }
-  .mobile-only {
-    display: block;
+    margin-left: 30px;
   }
 }

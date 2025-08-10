@@ -1,0 +1,45 @@
+.download-btn {
+  position: relative;
+  background: black;
+  color: white;
+  padding: 3.5px 9px;
+  font-size: 17px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  overflow: hidden;
+  transition: background 0.3s ease;
+  -webkit-tap-highlight-color: transparent; /* iOS & Chrome mobile */
+}
+
+.download-btn:hover {
+  background-color: #222;
+  background-color: orangered;
+}
+
+.download-btn:focus {
+  outline: none;
+}
+
+a,
+a:active,
+a:focus {
+  background-color: transparent !important;
+  -webkit-tap-highlight-color: transparent;
+}
+
+.download-btn:active {
+  background-color: transparent !important;
+}
+
+.download-btn svg {
+  width: 18px;
+  height: 28px;
+  vertical-align: middle;
+  transition: transform 0.3s ease;
+  margin-right: 3px;
+}
+
+.download-btn:hover svg {
+  transform: translateY(2px);
+}
