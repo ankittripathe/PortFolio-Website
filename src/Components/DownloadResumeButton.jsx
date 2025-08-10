@@ -9,16 +9,14 @@ export default function DownloadResumeButton() {
   const handleDownload = () => {
     setLoading(true);
 
-    setTimeout(() => {
-      const link = document.createElement("a");
-      link.href = "/files/ANKIT.pdf"; // must be inside public/files
-      link.download = "ANKIT.pdf";
-      document.body.appendChild(link); // ensure it’s in DOM
-      link.click();
-      document.body.removeChild(link);
+    const link = document.createElement("a");
+    link.href = "/resume/ANKIT.pdf";
+    link.download = "ANKIT.pdf";
+    link.click();
 
+    setTimeout(() => {
       setLoading(false);
-    }, 3000);
+    }, 3500); // simulate download
   };
 
   return (
@@ -40,10 +38,14 @@ export default function DownloadResumeButton() {
         paddingInline: "10px",
         fontSize: "16px",
         paddingBlock: "4px",
-        "&:hover": { backgroundColor: "#222" },
+        textTransform: "none",
+        margin: 0,
+        minWidth: "unset", // remove default button width
+        height: "36px", // same as social icons
+        lineHeight: "1.2", // align text vertically
       }}
     >
-      {loading ? "Downloading..." : "Resume"}
+      {loading ? "wait..." : "Resume"}
     </Button>
   );
 }

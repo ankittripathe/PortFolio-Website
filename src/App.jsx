@@ -5,6 +5,8 @@ import HomePage from "./Pages/HomePage";
 import AboutPage from "./Pages/AboutPage";
 import ProjectsPage from "./Pages/ProjectsPage";
 import ContactPage from "./Pages/ContactPage";
+import ScrollToTopBehaviour from "./Components/ScrollToTopBehaviour";
+
 
 const App = () => {
   return (
@@ -17,6 +19,7 @@ const App = () => {
         <Route path="/contact" element={<ContactPage />} />
       </Routes>
       <Footer />
+      <ScrollToTopBehaviour/>
     </>
   );
 };

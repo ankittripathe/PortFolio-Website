@@ -110,12 +110,28 @@
 .links a img {
   height: 36px;
   width: auto;
-  padding-right: 1rem;
+  /* padding-right: 1rem; */
+}
+
+.links {
+  display: flex;
+  gap: 14px;
+    align-items: center; ///
+}
+
+.links a,
+.links .resume-btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 /* testing */
-.links {
-  display: flex;
+.desktop-only {
+  display: block;
+}
+.mobile-only {
+  display: none;
 }
 
 /* Responsivess For Home Section */
@@ -161,8 +177,16 @@
     height: 300px;
   }
 
-  /* testing */
   .links {
+    align-items: center;
     justify-content: center;
+  }
+
+  /* testing */
+    .desktop-only {
+    display: none;
+  }
+  .mobile-only {
+    display: block;
   }
 }
