@@ -22,6 +22,7 @@ const Contact = () => {
                   required
                 />
               </div>
+
               <div className="contact__form-div">
                 <label className="contact__form-tag" htmlFor="email">
                   Email
@@ -35,6 +36,7 @@ const Contact = () => {
                   required
                 />
               </div>
+
               <div className="contact__form-div contact__form-area">
                 <label className="contact__form-tag" htmlFor="project">
                   Message
@@ -49,6 +51,7 @@ const Contact = () => {
                   required
                 />
               </div>
+              
               <button href="#contact" className="button">
                 Send Message
                 <svg
@@ -201,7 +204,7 @@ const Contact = () => {
               </div>
 
               {/* Phone */}
-              {/* <div className="contact__icon-box">
+               {/* <div className="contact__icon-box">
                 <span>
                   <svg
                     fill="#147efb"
@@ -228,7 +231,7 @@ const Contact = () => {
                   <a href="">+91 9616425951</a>
                   <p>Available On Request</p>
                 </div>
-              </div> */}
+              </div>  */}
             </div>
           </div>
         </div>
