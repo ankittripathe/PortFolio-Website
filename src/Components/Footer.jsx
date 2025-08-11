@@ -8,7 +8,7 @@ const Footer = () => {
           <div className="footerc">
             <h3>Copyright © 2025. All rights are reserved</h3>
             <div className="footerc__socials">
-              {/* Linkedin */}
+
               <a
                 aria-label="linkedin"
                 target="_blank"
@@ -35,7 +35,7 @@ const Footer = () => {
                 </svg>
               </a>
 
-              {/* Github */}
+    
               <a
                 aria-label="github"
                 target="_blank"
@@ -58,7 +58,7 @@ const Footer = () => {
                 </svg>
               </a>
 
-              {/* Instagram */}
+           
               <a
                 aria-label="instagram"
                 target="_blank"

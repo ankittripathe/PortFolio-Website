@@ -189,7 +189,14 @@ const Contact = () => {
                 </span>
                 <div className="contact__info">
                   <h3>Location</h3>
-                  <p>Gurugram, Haryana</p>
+                  {/* <p>Gurugram, Haryana</p> */}
+                  <a
+                    href="https://www.google.com/maps/place/Gurugram,+Haryana"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    Gurugram, Haryana
+                  </a>
                 </div>
               </div>
 
