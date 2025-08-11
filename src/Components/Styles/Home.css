@@ -2,28 +2,24 @@
   background-color: #f9f9f9;
   display: flex;
   justify-content: center;
-  /* height: 110vh; */
-  padding: 8rem 15rem;
+  /* padding: 8rem 15rem; */
+  padding: 7rem 15rem;
   margin: 0 auto;
 }
 
 .hero-text {
   display: flex;
   flex-direction: column;
-  gap: 2rem;
-}
-
-.wave-hand {
-  width: 48px;
+  gap: 0.75rem;
 }
 
 .hero-text h1 {
-  font-size: 3rem;
+  font-size: 3.25rem;
   font-weight: 700;
 }
 
 .hero-text p {
-  font-size: 1.2rem;
+  font-size: 1.35rem;
   color: #555;
 }
 
@@ -39,15 +35,14 @@
   flex-direction: column;
   position: relative;
   justify-content: left;
-  gap: 5rem;
+  gap: 3rem;
 }
 
 .profile-img {
   border: 2px solid black;
-  width: 350px;
   animation: morph 8s ease-in-out infinite;
   border-radius: 60% 40% 30% 70% / 60% 30% 70% 40%;
-  height: 400px;
+  height: 380px;
   transition: all 1s ease-in-out;
   width: 400px;
   z-index: 1;
@@ -83,7 +78,7 @@
 .skills p {
   font-weight: 400;
   border-right: 2px solid rgba(45, 46, 50, 0.5);
-  padding: 20px;
+  padding: 20px 20px 20px 0px;
   font-weight: 600;
 }
 
@@ -115,8 +110,8 @@
 .links {
   display: flex;
   gap: 16px;
+  margin-top: 0.6rem;
 }
-
 
 /* Responsivess For Home Section */
 @media only screen and (max-width: 950px) {
@@ -130,23 +125,33 @@
     text-align: center;
     height: auto;
     text-wrap: wrap;
+    margin-top: -40px;
   }
 
   .hero-text p {
     text-wrap: balance;
+    font-size: 1.25rem;
+  }
+
+  .hero-text {
+    gap: 0.3rem;
   }
 
   .hero-text h1 {
-    font-size: 30px;
+    margin-top: 1rem;
+    font-size: 28px;
   }
 
   .skills {
     flex-direction: column;
   }
+
   .skills p {
     border-right: none;
     border-bottom: 2px solid rgba(45, 46, 50, 0.5);
+    padding: 20px;
   }
+
   .skills ul {
     display: grid;
     grid-template-columns: auto auto auto auto;
@@ -163,6 +168,6 @@
 
   .links {
     justify-content: center;
-    margin-left: 30px;
+    margin-top: 1rem;
   }
 }

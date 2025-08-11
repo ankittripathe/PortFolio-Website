@@ -2,7 +2,6 @@ import profile from "../assets/Profile.jpeg";
 import github from "../assets/github.png";
 import linkedin from "../assets/linkedin.png";
 import instagram from "../assets/instagram.png";
-// import handemoji from "../assets/wave-hand.png";
 import "../Components/Styles/Home.css";
 import DownloadResume from "./DownloadResume";
 
@@ -16,11 +15,10 @@ const Home = () => {
               <div className="hero-text">
                 <h1>
                   Front-End Developer <br />
-                  {/* <img className="wave-hand" src={handemoji} alt="" /> */}
                 </h1>
                 <p>
                   Hi, I&apos;m Ankit Tripathi. A Self-taught passionate
-                  Front-end Developer based in India. 📍
+                  Front-End Developer based in India. 📍
                 </p>
                 <span className="links">
                   <a href="https://github.com/ankittripathe/" target="_blank">
