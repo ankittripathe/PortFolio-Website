@@ -1,6 +1,35 @@
 import "../Components/Styles/Contact.css";
+import React, { useState } from "react";
+import { toast } from "react-toastify";
 
 const Contact = () => {
+  const [result, setResult] = React.useState("");
+
+  const onSubmitHandler = async (event) => {
+    event.preventDefault();
+    setResult("Sending....");
+
+    const formData = new FormData(event.target);
+    formData.append("access_key", "64c9ab25-04e4-4a55-b884-809052a9a080");
+
+    const response = await fetch("https://api.web3forms.com/submit", {
+      method: "POST",
+      body: formData,
+    });
+
+    const data = await response.json();
+
+    if (data.success) {
+      setResult("");
+      toast.success("Form Submitted Successfully");
+      event.target.reset();
+    } else {
+      console.log("Error", data);
+      toast.error(data.message || "Something went wrong!");
+      setResult("");
+    }
+  };
+
   return (
     <section className="contact" id="Contact">
       <div className="contact-container">
@@ -8,7 +37,7 @@ const Contact = () => {
           {/* Left Side → Form */}
           <div className="contact__form">
             <h2>Drop me a message</h2>
-            <form className="contact__form">
+            <form onSubmit={onSubmitHandler} className="contact__form">
               <div className="contact__form-div">
                 <label className="contact__form-tag" htmlFor="name">
                   Name
@@ -51,7 +80,7 @@ const Contact = () => {
                   required
                 />
               </div>
-              
+
               <button href="#contact" className="button">
                 Send Message
                 <svg
@@ -204,7 +233,7 @@ const Contact = () => {
               </div>
 
               {/* Phone */}
-               {/* <div className="contact__icon-box">
+              {/* <div className="contact__icon-box">
                 <span>
                   <svg
                     fill="#147efb"

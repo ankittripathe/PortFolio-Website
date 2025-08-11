@@ -6,10 +6,13 @@ import AboutPage from "./Pages/AboutPage";
 import ProjectsPage from "./Pages/ProjectsPage";
 import ContactPage from "./Pages/ContactPage";
 import ScrollToTopBehaviour from "./Components/ScrollToTopBehaviour";
+import { ToastContainer } from "react-toastify";
 
 const App = () => {
+
   return (
     <>
+      <ToastContainer />Pop Notification
       <Header />
       <Routes>
         <Route path="/" element={<HomePage />} />
