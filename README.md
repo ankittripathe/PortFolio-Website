@@ -43,10 +43,6 @@ Hi, I am Ankit Tripathi, A Front-End Web Developer.
 | ------------------------------------ |
 | ![Contact](./public/contactPage.PNG) |
 
-## 🔗 Links
-- 🌐 **Live Demo**: [https://lnkd.in/drtsgfVk](https://ankittripathi.vercel.app/)
-- 📁 **GitHub Repo**: [https://lnkd.in/g-m6hC2Y](https://github.com/ankittripathe/PortFolio-Website)
-
 
 ## 📦 Getting Started
 
@@ -69,6 +65,14 @@ npm install
 npm run dev
 ```
 
+## 🔗 Links
+- 🌐 **Live Demo**: [https://lnkd.in/drtsgfVk](https://ankittripathi.vercel.app/)
+- 📁 **GitHub Repo**: [https://lnkd.in/g-m6hC2Y](https://github.com/ankittripathe/PortFolio-Website)
+
+
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://lnkd.in/drtsgfVk)
+[![GitHub Repo](https://img.shields.io/badge/📁_GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://lnkd.in/g-m6hC2Y)
+
 ## 🤝 Let's Connect
 If you're passionate about frontend development, UI/UX, or React-based web apps — let’s connect and collaborate!
 
@@ -78,9 +82,6 @@ If you're passionate about frontend development, UI/UX, or React-based web apps 
 
 [![Email](https://img.shields.io/badge/Email-ankittripathe%40gmail.com-cc4748?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ankittripathe@gmail.com)
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://lnkd.in/drtsgfVk)
-[![GitHub Repo](https://img.shields.io/badge/📁_GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://lnkd.in/g-m6hC2Y)
-[![Email](https://img.shields.io/badge/📧_Email-ankittripathe%40gmail.com-cc4748?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ankittripathe@gmail.com)
 
 
 
