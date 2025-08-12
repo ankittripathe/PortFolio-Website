@@ -6,16 +6,14 @@ Hi, I am Ankit Tripathi, A Front-End Web Developer.
 - CSS
 - Javascript
 - React
+- React-Hook-Form
 - React-toastify
 - Web3Forms
 
 
 
-
-<!-- ************************ -->
 ## Features 🎉
 - Responsive design 📱
-- Dark mode toggle 🌑
 - Scroll to top button ⬆️
 - Contact form with emailjs integration 📧
 - Qualification section with tabs 📚
@@ -23,6 +21,23 @@ Hi, I am Ankit Tripathi, A Front-End Web Developer.
 - About section with introduction, background, goals, and interests 📝
 - Home section with hero image, title, and description 🏠
 - Footer with copyright information 📜
+
+## ✨ Portfolio Features
+
+## ✨ Portfolio Features
+
+- **Responsive Design** 📱 — Optimized for mobile, tablet, and desktop.
+- **Smooth Animations** 🎨 — Framer Motion transitions for sections and elements.
+- **Scroll-to-Top Button** ⬆️ — Quick navigation back to the top.
+- **Hero Section** 🏠 — Professional title, intro, and CTA buttons.
+- **About Section** 📝 — Overview of skills, experience, and goals.
+- **Projects Section** 💻 — Showcases key work with descriptions and links.
+- **Contact Form (Web3Forms)** 📧 — Direct email submissions without backend.
+- **Toast Notifications** 🔔 — Feedback for form submissions.
+- **Footer** 📜 — Copyright and quick links.
+- **React Router Navigation** 🔗 — Smooth page routing without reload.
+
+
 
 
 ## 📸 Screenshots
@@ -69,10 +84,6 @@ npm run dev
 - 🌐 **Live Demo**: [https://lnkd.in/drtsgfVk](https://ankittripathi.vercel.app/)
 - 📁 **GitHub Repo**: [https://lnkd.in/g-m6hC2Y](https://github.com/ankittripathe/PortFolio-Website)
 
-
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://lnkd.in/drtsgfVk)
-[![GitHub Repo](https://img.shields.io/badge/📁_GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://lnkd.in/g-m6hC2Y)
-
 ## 🤝 Let's Connect
 If you're passionate about frontend development, UI/UX, or React-based web apps — let’s connect and collaborate!
 
@@ -81,8 +92,6 @@ If you're passionate about frontend development, UI/UX, or React-based web apps 
 [![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ankittripathe)
 
 [![Email](https://img.shields.io/badge/Email-ankittripathe%40gmail.com-cc4748?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ankittripathe@gmail.com)
-
-
 
 
 ## 🌐 Check Out My Portfolio
