@@ -44,22 +44,9 @@ Hi, I am Ankit Tripathi, A Front-End Web Developer.
 | ![Contact](./public/contactPage.PNG) |
 
 ## 🔗 Links
-
 - 🌐 **Live Demo**: [https://lnkd.in/drtsgfVk](https://ankittripathi.vercel.app/)
 - 📁 **GitHub Repo**: [https://lnkd.in/g-m6hC2Y](https://github.com/ankittripathe/PortFolio-Website)
 
-## 💡 What I Learned
-
-While building TrendWear, I enhanced my understanding of:
-
-- Smooth navigation using **React Router (BrowserRouter)**.
-- Validated forms with **React Hook Form**.
-- User-friendly alerts via **SweetAlert**.
-- UI design using **React Icons (FontAwesome)**.
-- State management with **Context API**.
-- Cart features: **Add to Cart** & **Remove from Cart**.
-- Responsive design with **Google Fonts** & **Material UI**.
-- Enhanced UX with **smooth scroll** and transitions.
 
 ## 📦 Getting Started
 
@@ -72,8 +59,8 @@ While building TrendWear, I enhanced my understanding of:
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/ankittripathe/TrendWear.git
-cd TrendWear
+git clone https://github.com/ankittripathe/PortFolio-Website.git
+cd PortFolio-Website
 
 # 2. Install dependencies
 npm install
