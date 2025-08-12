@@ -78,12 +78,11 @@ If you're passionate about frontend development, UI/UX, or React-based web apps 
 
 [![Email](https://img.shields.io/badge/Email-ankittripathe%40gmail.com-cc4748?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ankittripathe@gmail.com)
 
-[![Email](https://img.shields.io/badge/Email-ankittripathe%40gmail.com-0078D4?style=flat-square&logo=mail&logoColor=white)](mailto:ankittripathe@gmail.com)
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://lnkd.in/drtsgfVk)
+[![GitHub Repo](https://img.shields.io/badge/📁_GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://lnkd.in/g-m6hC2Y)
+[![Email](https://img.shields.io/badge/📧_Email-ankittripathe%40gmail.com-cc4748?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ankittripathe@gmail.com)
 
-[![Email](https://img.shields.io/badge/-ankittripathe%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ankittripathe@gmail.com)
 
-
-📧 ankittripathe@gmail.com
 
 ## 🌐 Check Out My Portfolio
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ankittripathi.vercel.app/)
