@@ -67,9 +67,6 @@ If you're passionate about frontend development, UI/UX, or React-based web apps 
 
 ## 🌐 Check Out My Portfolio
 
-# Homxy
-
-A Modern & Responsive Real Estate WebApp Which Provide luxury Home facilities.
 
 ## 🛠 Skills
 
@@ -112,23 +109,6 @@ Hi, I am Ankit Tripathi, A Front-End Web Developer.
 **Server:** Node, Express
 
 <!-- ************************ -->
-
-# Karan's Portfolio Website 📚💻
-
-A personal portfolio website built using React, Vite, and CSS. 🌐
-
-## Table of Contents 📝
-
-- [Features](#features) 🎉
-- [Technologies Used](#technologies-used) 💻
-- [File Structure](#file-structure) 🗂️
-- [Installation and Setup](#installation-and-setup) 🔧
-- [Usage](#usage) 📊
-- [Components](#components) 📈
-- [Styles](#styles) 🎨
-- [Scripts](#scripts) 📝
-- [License](#license) 📜
-
 ## Features 🎉
 
 - Responsive design 📱
