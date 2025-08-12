@@ -13,13 +13,6 @@ Excited to present **TrendWear**, a sleek and responsive e-commerce clothing pla
 7️⃣ **Add to Cart & Remove from Cart** – Fully functional shopping cart system  
 8️⃣ **Smooth Scroll Behavior** – Enhanced browsing experience with fluid page transitions
 
-## 📂 Data Management
-
-All product data is structured within JavaScript object files inside the `assets` folder, ensuring flexibility and ease of management.
-
-## 💡 Core Development Approach
-
-This project follows a **component-based architecture**, with well-structured `Components`, `Pages`, and `Context API` for state handling. Hooks like `useState`, `useContext`, and `useParams` power dynamic functionality.
 
 ## 📁 Folder Structure
 
@@ -172,13 +165,6 @@ Add badges from somewhere like: [shields.io](https://shields.io/)
 [![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
 
 
-## Features
-
-- Light/dark mode toggle
-- Live previews
-- Fullscreen mode
-- Cross platform
-
 
 ## 🚀 About Me
 Hi, I am Ankit Tripathi, A Front-End Web Developer.
@@ -199,33 +185,6 @@ Hi, I am Ankit Tripathi, A Front-End Web Developer.
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
 
 
-## Installation
-
-Install my-project with npm
-
-```bash
-  npm install my-project
-  cd my-project
-```
-    
-## Other Common Github Profile Sections
-👩‍💻 I'm currently working on...
-
-🧠 I'm currently learning...
-
-👯‍♀️ I'm looking to collaborate on...
-
-🤔 I'm looking for help with...
-
-💬 Ask me about...
-
-📫 How to reach me...
-
-😄 Pronouns...
-
-⚡️ Fun fact...
-
-
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
@@ -239,26 +198,6 @@ Install my-project with npm
 **Client:** React, Redux, TailwindCSS
 
 **Server:** Node, Express
-
-
-## Running Tests
-
-To run tests, run the following command
-
-```bash
-  npm run test
-```
-
-
-## Usage/Examples
-
-```javascript
-import Component from 'my-project'
-
-function App() {
-  return <Component />
-}
-```
 
 
 <!-- ************************ -->
@@ -346,24 +285,6 @@ A personal portfolio website built using React, Vite, and CSS. 🌐
 * `ScrollUp`: Scroll to top button component ⬆️
 * `Skills`: Skills section component 💻
 
-## Styles 🎨
-
-* `App.css`: App component styles 📄
-* `index.css`: Global styles 🌐
-* `components/about/about.css`: About section styles 📚
-* `components/contact/contact.css`: Contact section styles 📧
-* `components/footer/footer.css`: Footer styles 📜
-* `components/header/header.css`: Header styles 📊
-* `components/home/home.css`: Home section styles 🏠
-* `components/qualification/qualification.css`: Qualification section styles 📚
-* `components/skills/skills.css`: Skills section styles 💻
-
-## Scripts 📝
-
-* `dev`: Starts the development server ⚡️
-* `build`: Builds the production version of the website 📈
-* `lint`: Runs ESLint on the code 📊
-* `preview`: Starts the preview server 📺
 
 ## License 📜
 
