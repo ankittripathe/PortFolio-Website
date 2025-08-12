@@ -10,22 +10,7 @@ Hi, I am Ankit Tripathi, A Front-End Web Developer.
 - React-toastify
 - Web3Forms
 
-
-
 ## Features 🎉
-- Responsive design 📱
-- Scroll to top button ⬆️
-- Contact form with emailjs integration 📧
-- Qualification section with tabs 📚
-- Skills section with frontend, backend, and other skills 💻
-- About section with introduction, background, goals, and interests 📝
-- Home section with hero image, title, and description 🏠
-- Footer with copyright information 📜
-
-## ✨ Portfolio Features
-
-## ✨ Portfolio Features
-
 - **Responsive Design** 📱 — Optimized for mobile, tablet, and desktop.
 - **Smooth Animations** 🎨 — Framer Motion transitions for sections and elements.
 - **Scroll-to-Top Button** ⬆️ — Quick navigation back to the top.
@@ -36,8 +21,6 @@ Hi, I am Ankit Tripathi, A Front-End Web Developer.
 - **Toast Notifications** 🔔 — Feedback for form submissions.
 - **Footer** 📜 — Copyright and quick links.
 - **React Router Navigation** 🔗 — Smooth page routing without reload.
-
-
 
 
 ## 📸 Screenshots
