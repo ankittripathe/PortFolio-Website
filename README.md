@@ -13,7 +13,6 @@ Excited to present **TrendWear**, a sleek and responsive e-commerce clothing pla
 7️⃣ **Add to Cart & Remove from Cart** – Fully functional shopping cart system  
 8️⃣ **Smooth Scroll Behavior** – Enhanced browsing experience with fluid page transitions
 
-
 ## 📁 Folder Structure
 
 ```
@@ -85,24 +84,22 @@ Excited to present **TrendWear**, a sleek and responsive e-commerce clothing pla
 | ------------------------------ |
 | ![Home](./public/homePage.PNG) |
 
-| About Page                  |
-| ------------------------------ |
+| About Page                       |
+| -------------------------------- |
 | ![About](./public/aboutPage.PNG) |
 
-| Project Page                       |
-| -------------------------------- |
+| Project Page                         |
+| ------------------------------------ |
 | ![Project](./public/projectPage.PNG) |
 
-| Contact Page                       |
+| Contact Page                         |
 | ------------------------------------ |
 | ![Contact](./public/contactPage.PNG) |
-
 
 ## 🔗 Links
 
 - 🌐 **Live Demo**: [https://lnkd.in/drtsgfVk](https://ankittripathi.vercel.app/)
 - 📁 **GitHub Repo**: [https://lnkd.in/g-m6hC2Y](https://github.com/ankittripathe/PortFolio-Website)
-
 
 ## 💡 What I Learned
 
@@ -116,7 +113,6 @@ While building TrendWear, I enhanced my understanding of:
 - Cart features: **Add to Cart** & **Remove from Cart**.
 - Responsive design with **Google Fonts** & **Material UI**.
 - Enhanced UX with **smooth scroll** and transitions.
-
 
 ## 📦 Getting Started
 
@@ -148,12 +144,12 @@ If you're passionate about frontend development, UI/UX, or React-based web apps 
 
 ## 🌐 Check Out My Portfolio
 
-
-
-
 # Homxy
+
 A Modern & Responsive Real Estate WebApp Which Provide luxury Home facilities.
+
 ## 🛠 Skills
+
 HTML, CSS, Javascript, React
 
 ## Badges
@@ -164,34 +160,27 @@ Add badges from somewhere like: [shields.io](https://shields.io/)
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
 [![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
 
-
-
 ## 🚀 About Me
-Hi, I am Ankit Tripathi, A Front-End Web Developer.
 
+Hi, I am Ankit Tripathi, A Front-End Web Developer.
 
 # Hi, I'm Ankit Tripathi! 👋
 
-
 ## 🔗 Links
+
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ankittripathi-portfolio.vercel.app/)
 
 [![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ankittripathe)
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankittripathe)
 
-
-
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
-
 
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
-
 ![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
-
 
 ## Tech Stack
 
@@ -199,97 +188,45 @@ Hi, I am Ankit Tripathi, A Front-End Web Developer.
 
 **Server:** Node, Express
 
-
 <!-- ************************ -->
+
 # Karan's Portfolio Website 📚💻
 
 A personal portfolio website built using React, Vite, and CSS. 🌐
 
 ## Table of Contents 📝
 
-* [Features](#features) 🎉
-* [Technologies Used](#technologies-used) 💻
-* [File Structure](#file-structure) 🗂️
-* [Installation and Setup](#installation-and-setup) 🔧
-* [Usage](#usage) 📊
-* [Components](#components) 📈
-* [Styles](#styles) 🎨
-* [Scripts](#scripts) 📝
-* [License](#license) 📜
+- [Features](#features) 🎉
+- [Technologies Used](#technologies-used) 💻
+- [File Structure](#file-structure) 🗂️
+- [Installation and Setup](#installation-and-setup) 🔧
+- [Usage](#usage) 📊
+- [Components](#components) 📈
+- [Styles](#styles) 🎨
+- [Scripts](#scripts) 📝
+- [License](#license) 📜
 
 ## Features 🎉
 
-* Responsive design 📱
-* Dark mode toggle 🌑
-* Scroll to top button ⬆️
-* Contact form with emailjs integration 📧
-* Qualification section with tabs 📚
-* Skills section with frontend, backend, and other skills 💻
-* About section with introduction, background, goals, and interests 📝
-* Home section with hero image, title, and description 🏠
-* Footer with copyright information 📜
+- Responsive design 📱
+- Dark mode toggle 🌑
+- Scroll to top button ⬆️
+- Contact form with emailjs integration 📧
+- Qualification section with tabs 📚
+- Skills section with frontend, backend, and other skills 💻
+- About section with introduction, background, goals, and interests 📝
+- Home section with hero image, title, and description 🏠
+- Footer with copyright information 📜
 
 ## Technologies Used 💻
 
-* React 🤖
-* Vite ⚡️
-* CSS 🎨
-* Emailjs 📧
-* Boxicons 📦
-* Unicons 📈
-
-## File Structure 🗂️
-
-* `src`: Source code directory 📁
-	+ `main.jsx`: Main application file 📄
-	+ `App.jsx`: App component 📈
-	+ `components`: Components directory 📁
-		- `about`: About section components 📚
-		- `contact`: Contact section components 📧
-		- `footer`: Footer component 📜
-		- `header`: Header component 📊
-		- `home`: Home section components 🏠
-		- `qualification`: Qualification section components 📚
-		- `scrollUp`: Scroll to top button component ⬆️
-		- `skills`: Skills section components 💻
-	+ `styles`: Styles directory 🎨
-		- `App.css`: App component styles 📄
-		- `index.css`: Global styles 🌐
-	+ `vite.config.js`: Vite configuration file 🔧
-* `public`: Public directory 📁
-	+ `index.html`: Index HTML file 📄
-* `package.json`: Package JSON file 📦
-
-## Installation and Setup 🔧
-
-1. Clone the repository: `git clone https://github.com/karangholap154/ReactJS-Portfolio.git` 📁
-2. Install dependencies: `npm install` 📦
-3. Start the development server: `npm run dev` ⚡️
-
-## Usage 📊
-
-1. Open the website in your browser: `http://localhost:3000` 🌐
-2. Explore the different sections of the website 📚
-3. Toggle dark mode by clicking the sun/moon icon in the bottom left corner 🌑
-4. Scroll to the top of the page by clicking the scroll to top button ⬆️
-5. Fill out the contact form to send an email to Karan 📧
-
-## Components 📈
-
-* `About`: About section component 📚
-* `Contact`: Contact section component 📧
-* `Footer`: Footer component 📜
-* `Header`: Header component 📊
-* `Home`: Home section component 🏠
-* `Qualification`: Qualification section component 📚
-* `ScrollUp`: Scroll to top button component ⬆️
-* `Skills`: Skills section component 💻
+- React 🤖
+- Vite ⚡️
+- CSS 🎨
+- Emailjs 📧
+- Boxicons 📦
+- Unicons 📈
 
 
 ## License 📜
-
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details. 📝
-
-
-
-
