@@ -163,49 +163,6 @@ A Modern & Responsive Real Estate WebApp Which Provide luxury Home facilities.
 ## 🛠 Skills
 HTML, CSS, Javascript, React
 
-
-## Lessons Learned
-
-Solving Problem of Responsiveness
-
-
-## Optimizations
-
-Optimizations of images and Fonts
-
-
-## Run Locally
-
-Clone the project
-
-```bash
-  git clone https://github.com/ankittripathe/Homzy.git
-```
-
-Go to the project directory
-
-```bash
-  cd Homzy
-```
-
-Install dependencies
-
-```bash
-  npm install
-```
-
-Start the server
-
-```bash
-  npm run dev
-```
-
-
-## Authors
-
-- [Ankit Tripathi](https://www.github.com/ankittripathe)
-
-
 ## Badges
 
 Add badges from somewhere like: [shields.io](https://shields.io/)
