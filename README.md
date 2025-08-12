@@ -114,11 +114,4 @@ If you're passionate about frontend development, UI/UX, or React-based web apps 
 
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
 
-## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
-
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
-
-## License 📜
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details. 📝
