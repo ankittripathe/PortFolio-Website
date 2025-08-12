@@ -1,4 +1,4 @@
-# ✨ Ankit - Portfolio Website 💻✨
+# 💻 Ankit - Portfolio Website
 
 ## 🚀 About Me
 Hi, I am Ankit Tripathi, A Front-End Web Developer.
