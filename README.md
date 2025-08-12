@@ -1,8 +1,13 @@
 # 🚀 Ankit - Portfolio Website 💻
 Hi, I am Ankit Tripathi, A Front-End Web Developer.
 
-## 🛠 Skills
-HTML, CSS, Javascript, React
+## 🛠 Technologies Used
+- HTML
+- CSS
+- Javascript
+- React
+- React-toastify
+- Web3Forms
 
 
 
@@ -18,15 +23,6 @@ HTML, CSS, Javascript, React
 - About section with introduction, background, goals, and interests 📝
 - Home section with hero image, title, and description 🏠
 - Footer with copyright information 📜
-
-## Technologies Used 💻
-
-- React 🤖
-- Vite ⚡️
-- CSS 🎨
-- Emailjs 📧
-- Boxicons 📦
-- Unicons 📈
 
 
 ## 📸 Screenshots
