@@ -1,5 +1,5 @@
 # 🚀 Ankit - Portfolio Website 💻
-Hi, I’m Ankit Tripathi, a passionate and self-taught Front-End Developer skilled in building modern, responsive, and user-focused web applications. I specialize in technologies like React.js, JavaScript, Tailwind CSS, SCSS, Framer Motion, Material UI, HTML5, CSS3 & Git/Githu
+Hi, I’m Ankit Tripathi, a passionate and self-taught Front-End Developer skilled in building modern, responsive, and user-focused web applications. I specialize in technologies like React.js, JavaScript, Tailwind CSS, SCSS, Framer Motion, Material UI, HTML5, CSS3 & Git/GitHub
 
 ## 🛠 Technologies Used
 - HTML
