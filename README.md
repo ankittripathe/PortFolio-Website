@@ -70,24 +70,12 @@ npm run dev
 ```
 
 ## 🤝 Let's Connect
-
 If you're passionate about frontend development, UI/UX, or React-based web apps — let’s connect and collaborate!
 
-🔗 [LinkedIn](https://linkedin.com/in/ankittripathe)  
+🔗 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankittripathe)
+
+[![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ankittripathe)
 📧 ankittripathe@gmail.com
 
 ## 🌐 Check Out My Portfolio
-
-
-
-## 🔗 Links
-
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ankittripathi-portfolio.vercel.app/)
-
-[![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ankittripathe)
-
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankittripathe)
-
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
-
-
