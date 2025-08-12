@@ -90,19 +90,19 @@ This project follows a **component-based architecture**, with well-structured `C
 
 | Home Page                      |
 | ------------------------------ |
-| ![Home](./public/homepage.png) |
+| ![Home](./public/homePage.PNG) |
 
-| Shopping Page                  |
+| About Page                  |
 | ------------------------------ |
-| ![Main](./public/shoppage.PNG) |
+| ![About](./public/aboutPage.PNG) |
 
-| Login Page                       |
+| Project Page                       |
 | -------------------------------- |
-| ![Login](./public/loginpage.PNG) |
+| ![Project](./public/projectPage.PNG) |
 
-| AddToCart Page                       |
+| Contact Page                       |
 | ------------------------------------ |
-| ![AddToCart](./public/addToCart.PNG) |
+| ![Contact](./public/contactPage.PNG) |
 
 
 ## 🔗 Links
