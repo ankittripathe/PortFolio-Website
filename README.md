@@ -1,6 +1,4 @@
-# 💻 Ankit - Portfolio Website
-
-## 🚀 About Me
+# 🚀 Ankit - Portfolio Website 💻
 Hi, I am Ankit Tripathi, A Front-End Web Developer.
 
 ## 🛠 Skills
@@ -11,7 +9,6 @@ HTML, CSS, Javascript, React
 
 <!-- ************************ -->
 ## Features 🎉
-
 - Responsive design 📱
 - Dark mode toggle 🌑
 - Scroll to top button ⬆️
