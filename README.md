@@ -72,9 +72,10 @@ npm run dev
 ## 🤝 Let's Connect
 If you're passionate about frontend development, UI/UX, or React-based web apps — let’s connect and collaborate!
 
-🔗 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankittripathe)
-
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankittripathe)
 [![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ankittripathe)
+[![Email](https://img.shields.io/badge/Email-ankittripathe%40gmail.com-cc4748?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ankittripathe@gmail.com)
+
 📧 ankittripathe@gmail.com
 
 ## 🌐 Check Out My Portfolio
