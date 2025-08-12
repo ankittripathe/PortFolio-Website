@@ -1,5 +1,40 @@
 # ✨ Ankit - Portfolio Website 💻✨
 
+## 🚀 About Me
+
+Hi, I am Ankit Tripathi, A Front-End Web Developer.
+
+# Hi, I'm Ankit Tripathi! 👋
+
+
+## 🛠 Skills
+HTML, CSS, Javascript, React
+
+
+
+
+<!-- ************************ -->
+## Features 🎉
+
+- Responsive design 📱
+- Dark mode toggle 🌑
+- Scroll to top button ⬆️
+- Contact form with emailjs integration 📧
+- Qualification section with tabs 📚
+- Skills section with frontend, backend, and other skills 💻
+- About section with introduction, background, goals, and interests 📝
+- Home section with hero image, title, and description 🏠
+- Footer with copyright information 📜
+
+## Technologies Used 💻
+
+- React 🤖
+- Vite ⚡️
+- CSS 🎨
+- Emailjs 📧
+- Boxicons 📦
+- Unicons 📈
+
 
 ## 📸 Screenshots
 
@@ -68,23 +103,6 @@ If you're passionate about frontend development, UI/UX, or React-based web apps 
 ## 🌐 Check Out My Portfolio
 
 
-## 🛠 Skills
-
-HTML, CSS, Javascript, React
-
-## Badges
-
-Add badges from somewhere like: [shields.io](https://shields.io/)
-
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
-[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
-[![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
-
-## 🚀 About Me
-
-Hi, I am Ankit Tripathi, A Front-End Web Developer.
-
-# Hi, I'm Ankit Tripathi! 👋
 
 ## 🔗 Links
 
@@ -101,35 +119,6 @@ Hi, I am Ankit Tripathi, A Front-End Web Developer.
 [MIT](https://choosealicense.com/licenses/mit/)
 
 ![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
-
-## Tech Stack
-
-**Client:** React, Redux, TailwindCSS
-
-**Server:** Node, Express
-
-<!-- ************************ -->
-## Features 🎉
-
-- Responsive design 📱
-- Dark mode toggle 🌑
-- Scroll to top button ⬆️
-- Contact form with emailjs integration 📧
-- Qualification section with tabs 📚
-- Skills section with frontend, backend, and other skills 💻
-- About section with introduction, background, goals, and interests 📝
-- Home section with hero image, title, and description 🏠
-- Footer with copyright information 📜
-
-## Technologies Used 💻
-
-- React 🤖
-- Vite ⚡️
-- CSS 🎨
-- Emailjs 📧
-- Boxicons 📦
-- Unicons 📈
-
 
 ## License 📜
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details. 📝
