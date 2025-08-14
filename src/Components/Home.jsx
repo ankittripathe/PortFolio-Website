@@ -39,7 +39,7 @@ const Home = () => {
                     <img src={instagram} alt="Instagram" />
                   </a>
 
-                  <a href="/resume/ANKIT.pdf" download>
+                  <a href="/resume/Ankit-Resume.pdf" download="Ankit-Resume.pdf">
                     <DownloadResume />
                   </a>
                 </span>
