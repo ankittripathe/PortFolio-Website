@@ -22,7 +22,6 @@ Hi, I’m Ankit Tripathi, a passionate and self-taught Front-End Developer skill
 - **Footer** 📜 — Copyright and quick links.
 - **React Router Navigation** 🔗 — Smooth page routing without reload.
 
-
 ## 📸 Screenshots
 
 | Home Page                      |
