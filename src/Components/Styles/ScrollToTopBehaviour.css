@@ -5,18 +5,23 @@
   background-color: black;
   color: white;
   border: none;
-  border-radius: 20px;
-  width: 46px;
-  height: 46px;
+  border-radius: 50%;
+  width: 55px;
+  height: 55px;
   display: flex;
   align-items: center;
   justify-content: center;
   cursor: pointer;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.5);
   z-index: 999;
-  transition: all 0.2s ease; /* 2s smooth transition */
+  transition: all 0.1s ease; /* 2s smooth transition */
 }
 
 .scrollToTop:hover {
-  background-color:orangered;
+  background-color:crimson;
+}
+
+.arrowbtn{
+  display: flex;
+  flex-direction: column;
 }
