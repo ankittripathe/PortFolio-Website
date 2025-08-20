@@ -17,17 +17,20 @@
 }
 
 /* Dark Theme */
-/* .dark-theme {
-  --bg-color: #121212;
-  --text-color: #ffffff;
-  --secondary-text: #cccccc;
-  --nav-bg: #1e1e1e;
-  --section-bg: #1a1a1a;
-  --card-bg: #222222;
-  --footer-bg: #000000;
-  --button-bg: #147efb;
-  --button-text: #ffffff;
-} */
+.dark-theme {
+  /* --bg-primary: #1e1e1e; */
+  --bg-primary: black;
+  --bg-secondary: #2a2a2a;
+  --bg-footer: white;
+  /* --bg-button: white; */
+  /* --bg-hover: #147efb; */
+
+  --text-primary: #ffffff;
+  /* --text-secondary: #aaaaaa; */
+  /* --text-blue: #147efb; */
+  /* --text-hover: #147efb; */
+  /* --text-button: black; */
+}
 
 * {
   margin: 0;

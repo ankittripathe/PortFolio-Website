@@ -1,0 +1,24 @@
+/* Theme Toggle Button */
+.theme-toggle {
+  position: fixed;
+  bottom: 110px; /* above scroll-to-top button */
+  left: 20px;
+  background-color: black;
+  color: white;
+  border: none;
+  border-radius: 50%;
+  width: 55px;
+  height: 55px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.5);
+  z-index: 999;
+  transition: all 0.3s ease;
+  font-size: 22px;
+}
+
+.theme-toggle:hover {
+  background-color: var(--bg-hover);
+}

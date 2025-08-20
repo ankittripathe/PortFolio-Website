@@ -7,6 +7,7 @@ import ProjectsPage from "./Pages/ProjectsPage";
 import ContactPage from "./Pages/ContactPage";
 import ScrollToTopBehaviour from "./Components/ScrollToTopBehaviour";
 import { ToastContainer } from "react-toastify";
+import ThemeToggle from "./Components/ThemeToogle";
 
 const App = () => {
 
@@ -22,6 +23,7 @@ const App = () => {
       </Routes>
       <Footer />
       <ScrollToTopBehaviour />
+      {/* <ThemeToggle/> */}
     </>
   );
 };

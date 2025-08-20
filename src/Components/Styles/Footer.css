@@ -1,6 +1,6 @@
 /* For Footer CSS*/
 footer {
-  background-color:var(--footer-bg);
+  background-color:var(--bg-footer);
   padding: 5rem 0;
   width: 100%;
 }

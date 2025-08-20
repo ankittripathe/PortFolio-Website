@@ -1,5 +1,4 @@
 import { useState, useEffect } from "react";
-import { FaArrowUp } from "react-icons/fa";
 import "../Components/Styles/ScrollToTopBehaviour.css";
 
 const ScrollToTopBehaviour = () => {
