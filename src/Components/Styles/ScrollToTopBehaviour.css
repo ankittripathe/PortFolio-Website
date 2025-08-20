@@ -2,7 +2,7 @@
   position: fixed;
   bottom: 36px;
   right: 20px;
-  background-color: black;
+  background-color:black;
   color: white;
   border: none;
   border-radius: 50%;
@@ -18,7 +18,7 @@
 }
 
 .scrollToTop:hover {
-  background-color:crimson;
+  background-color:var(--bg-hover);
 }
 
 .arrowbtn{

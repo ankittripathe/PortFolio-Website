@@ -13,8 +13,7 @@
 }
 
 .download-btn:hover {
-  background-color: #222;
-  background-color: crimson;
+  background-color: var(--text-hover);
 }
 
 .download-btn:focus {

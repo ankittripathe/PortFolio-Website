@@ -11,7 +11,6 @@
 
 .contact__form h2 {
   font-size: 1.5rem;
-  color: #2d2e32;
   margin-bottom: 1rem;
 }
 
@@ -34,7 +33,7 @@
 
 /* Contact Info Section */
 .contact__title p {
-  color: #147efb;
+  color: var(--text-blue);
   font-size: 1.5rem;
   font-weight: 700;
   margin-bottom: 0.6rem;
@@ -56,10 +55,10 @@
 
 .contact__icon-box span {
   align-items: center;
-  background-color: #fff;
+  background-color:var(--bg-primary);
   border-radius: 50%;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-  color: #147efb;
+  color:var(--text-blue);
   display: flex;
   justify-content: center;
   height: 3.8rem;
@@ -67,12 +66,10 @@
 }
 
 .contact__title h3 {
-  color: #2d2e32;
   font-size: 1.5rem;
 }
 
 .contact__info h3 {
-  color: #2d2e32;
   font-size: 1.2rem;
 }
 
@@ -87,8 +84,8 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: black;
-  color: #fff;
+  background-color: var(--bg-button);
+  color:var(--text-button);
   padding: 0.7rem;
   border-radius: 0.6rem;
   font-weight: 500;
@@ -97,7 +94,7 @@
 }
 
 .button:hover {
-  background-color: orangered;
+  background-color: var(--text-hover);
 }
 
 .button__icon {
