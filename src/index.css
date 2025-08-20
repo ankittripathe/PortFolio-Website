@@ -7,12 +7,13 @@
   --bg-secondary: #f9f9f9;
   --bg-footer: #2d2e32;
   --bg-button: black;
-  --bg-hover:#147efb;
+  /* --bg-hover:#147efb; */
+  --bg-hover:blue;
 
   --text-primary: #000000;
   --text-secondary: #555;
   --text-blue: #147efb;
-  --text-hover: #147efb;
+  --text-hover: blue;
   --text-button: white;
 }
 
