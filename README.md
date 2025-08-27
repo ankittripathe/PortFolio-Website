@@ -63,8 +63,8 @@ npm run dev
 ```
 
 ## 🔗 Links
-- 🌐 **Live Demo**: [https://lnkd.in/drtsgfVk](https://ankittripathi.vercel.app/)
-- 📁 **GitHub Repo**: [https://lnkd.in/g-m6hC2Y](https://github.com/ankittripathe/PortFolio-Website)
+- 🌐 **Live Demo**: [Live Demo](https://ankittripathi.vercel.app/)
+- 📁 **GitHub Repo**: [Source Code](https://github.com/ankittripathe/PortFolio-Website)
 
 ## 🤝 Let's Connect
 If you're passionate about frontend development, UI/UX, or React-based web apps — let’s connect and collaborate!
