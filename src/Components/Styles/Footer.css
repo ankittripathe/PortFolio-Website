@@ -45,7 +45,8 @@ footer h3 {
   }
 
   .footerc {
-    flex-wrap: wrap;
+    /* flex-wrap: wrap; */
+    flex-direction: column;
     justify-content: center;
     text-align: center;
   }
