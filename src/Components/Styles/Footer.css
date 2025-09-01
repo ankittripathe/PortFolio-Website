@@ -1,7 +1,7 @@
 /* For Footer CSS*/
 footer {
-  background-color:var(--bg-footer);
-  padding: 4rem 0;
+  background-color: var(--bg-footer);
+  padding: 2rem 0;
   width: 100%;
 }
 
@@ -12,9 +12,9 @@ footer {
 }
 
 .footerc {
-  align-items: center;
   display: flex;
   justify-content: space-between;
+  align-items: center;
 }
 
 footer h3 {
@@ -23,11 +23,10 @@ footer h3 {
 }
 
 .footerc__socials {
-  align-items: center;
   display: flex;
-  gap: 2rem;
+  align-items: center;
   justify-content: center;
-  margin-top: 1rem;
+  gap: 2rem;
 }
 
 .footerc__socials a {
@@ -35,20 +34,24 @@ footer h3 {
   font-size: 2.3rem;
 }
 
+
 /* Responsive Footer */
 @media only screen and (max-width: 950px) {
+  footer {
+    padding: 1rem 0 0;
+  }
+
   .footerc {
     flex-wrap: wrap;
-    /* gap: 2rem; */
     justify-content: center;
     text-align: center;
   }
 
   footer h3 {
-    font-size: 1rem;
+    font-size: 0.9rem;
   }
 
-  footer {
-    padding: 2rem 0;
+  .footer-container {
+    padding: 0 1rem;
   }
 }
