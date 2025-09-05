@@ -1,6 +1,6 @@
-// import profile from "../assets/Profile.jpeg";
-// import profile from '../assets/Profile1.jpeg'
 import profile from '../assets/Profile8.PNG'
+// import profile from '../assets/Ankit.png'
+// import profile from '../assets/Ankit2.png'
 import github from "../assets/github.png";
 import linkedin from "../assets/linkedin.png";
 import instagram from "../assets/instagram.png";
