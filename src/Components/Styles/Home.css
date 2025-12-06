@@ -35,7 +35,7 @@
   flex-direction: column;
   position: relative;
   justify-content: left;
-  gap: 3rem;
+  gap: 2rem;
 }
 
 .profile-img {
@@ -44,7 +44,7 @@
   border-radius: 60% 40% 30% 70% / 60% 30% 70% 40%;
   height: 380px;
   transition: all 1s ease-in-out;
-  width: 400px;
+  width: 420px;
   z-index: 1;
 }
 
@@ -162,7 +162,7 @@
   }
 
   .profile-img {
-    width: 350px;
+    width: 300px;
     height: 300px;
   }
 
