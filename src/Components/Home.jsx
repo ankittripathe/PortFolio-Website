@@ -1,4 +1,4 @@
-import profile from '../assets/Profile8.PNG'
+import profile from "../assets/Profile8.PNG";
 // import profile from '../assets/Ankit.png'
 // import profile from '../assets/Ankit2.png'
 import github from "../assets/github.png";
@@ -39,7 +39,10 @@ const Home = () => {
                     <img src={instagram} alt="Instagram" />
                   </a>
 
-                  <a href="/resume/Ankit-Resume.pdf" download="Ankit-Resume.pdf">
+                  <a
+                    href="https://drive.google.com/file/d/1CavX1zfNJGR-q4re0YCm2Wzx_xyrewmJ/view?usp=drivesdk"
+                    download="Ankit-Resume.pdf"
+                  >
                     <DownloadResume />
                   </a>
                 </span>
@@ -62,6 +65,13 @@ const Home = () => {
                   <img
                     src="https://skillicons.dev/icons?i=js"
                     alt="JavaScript"
+                  />
+                </li>
+
+                <li>
+                  <img
+                    src="https://skillicons.dev/icons?i=nextjs"
+                    alt="Next.js"
                   />
                 </li>
 
@@ -125,7 +135,6 @@ const Home = () => {
 
                 {/* <li><img src="https://skillicons.dev/icons?i=nodejs" alt="Nodejs"/></li> */}
                 {/* <li><img src="https://skillicons.dev/icons?i=express" alt="ExpressJs"/></li> */}
-                {/* <li><img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" /></li> */}
                 {/* <li><img src="https://skillicons.dev/icons?i=aws" alt="AWS" /></li> */}
               </ul>
             </div>
