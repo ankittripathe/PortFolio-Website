@@ -1,6 +1,9 @@
-import profile from "../assets/Profile8.PNG";
+// import profile from "../assets/Profile8.PNG";
 // import profile from '../assets/Ankit.png'
-// import profile from '../assets/Ankit2.png'
+// import profile from '../assets/Ankit1.png'
+// import profile from '../assets/AnkitOne.jpeg'
+import profile from '../assets/AnkitSix.jpeg'
+// import profile from '../assets/AnkitTwo.jpg'
 import github from "../assets/github.png";
 import linkedin from "../assets/linkedin.png";
 import instagram from "../assets/instagram.png";
@@ -39,6 +42,7 @@ const Home = () => {
                     <img src={instagram} alt="Instagram" />
                   </a>
 
+                  {/* Reumse link from google drive  */}
                   <a
                     href="https://drive.google.com/file/d/1CavX1zfNJGR-q4re0YCm2Wzx_xyrewmJ/view?usp=drivesdk"
                     download="Ankit-Resume.pdf"
