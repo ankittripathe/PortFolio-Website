@@ -124,7 +124,7 @@
     flex-direction: column-reverse;
     text-align: center;
     height: auto;
-    text-wrap: wrap;
+    /* text-wrap: wrap; */
     margin-top: -40px;
   }
 
