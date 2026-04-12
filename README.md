@@ -52,7 +52,7 @@ Hi, I’m Ankit Tripathi, a passionate and self-taught Front-End Developer skill
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/ankittripathe/PortFolio-Website.git
+git clone https://github.com/ankittripathi-dev/PortFolio-Website.git
 cd PortFolio-Website
 
 # 2. Install dependencies
@@ -64,16 +64,16 @@ npm run dev
 
 ## 🔗 Links
 - 🌐 **Live Demo**: [Live Demo](https://ankittripathi.vercel.app/)
-- 📁 **GitHub Repo**: [Source Code](https://github.com/ankittripathe/PortFolio-Website)
+- 📁 **GitHub Repo**: [Source Code](https://github.com/ankittripathi-dev/PortFolio-Website)
 
 ## 🤝 Let's Connect
 If you're passionate about frontend development, UI/UX, or React-based web apps — let’s connect and collaborate!
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankittripathe)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankittripathi-devs)
 
-[![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ankittripathe)
+[![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ankittripathi-dev)
 
-[![Email](https://img.shields.io/badge/Email-ankittripathe%40gmail.com-cc4748?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ankittripathe@gmail.com)
+[![Email](https://img.shields.io/badge/Email-ankittripathi.dev%40gmail.com-cc4748?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ankittripathi.dev@gmail.com)
 
 
 ## 🌐 Check Out My Portfolio
