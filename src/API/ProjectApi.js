@@ -12,7 +12,7 @@ const ProjectData = [
     tech2: "React Router",
     tech3: "MUI",
     tech4: "React Icons",
-    code: "https://github.com/ankittripathe/TrendWear",
+    code: "https://github.com/ankittripathi-dev/TrendWear",
     live: "https://trendwear-clothingsite.vercel.app/",
   },
 
@@ -24,7 +24,7 @@ const ProjectData = [
     tech2: "Tailwind",
     tech3: "Motion",
     tech4: "React Router",
-    code: "https://github.com/ankittripathe/RealEstate-App",
+    code: "https://github.com/ankittripathi-dev/RealEstate-App",
     live: "https://nexushome-realstate.vercel.app/",
   },
 
@@ -35,10 +35,10 @@ const ProjectData = [
     tech1: "Html",
     tech2: "CSS",
     tech3: "Javascript",
-    code: "https://github.com/ankittripathe/CountDown-Timer",
+    code: "https://github.com/ankittripathi-dev/CountDown-Timer",
     live: "https://countdowntimer-project.netlify.app/",
   },
-
+  
   {
     img: studyWell,
     heading: "StudyWell LearningApp",
@@ -46,7 +46,7 @@ const ProjectData = [
     tech1: "Html",
     tech2: "CSS",
     tech3: "Javascript",
-    code: "https://github.com/ankittripathe/StudyWell",
+    code: "https://github.com/ankittripathi-dev/StudyWell",
     live: "https://studywell-webapp.netlify.app/",
   },
 ];

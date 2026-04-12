@@ -1,9 +1,5 @@
-// import profile from "../assets/Profile8.PNG";
-// import profile from '../assets/Ankit.png'
-// import profile from '../assets/Ankit1.png'
-// import profile from '../assets/AnkitOne.jpeg'
-import profile from '../assets/AnkitSix.jpeg'
-// import profile from '../assets/AnkitTwo.jpg'
+// import profile from "../assets/AnkitSix.jpeg";
+import profile from "../assets/ankit.png";
 import github from "../assets/github.png";
 import linkedin from "../assets/linkedin.png";
 import instagram from "../assets/instagram.png";
@@ -26,15 +22,20 @@ const Home = () => {
                   Front-End Developer based in India. 📍
                 </p>
                 <span className="links">
-                  <a href="https://github.com/ankittripathe/" target="_blank">
+                  <a
+                    href="https://github.com/ankittripathi-dev/"
+                    target="_blank"
+                  >
                     <img src={github} alt="Github" />
                   </a>
+
                   <a
-                    href="https://www.linkedin.com/in/ankittripathe/"
+                    href="https://www.linkedin.com/in/ankittripathi-devs"
                     target="_blank"
                   >
                     <img src={linkedin} alt="LinkedIn" />
                   </a>
+
                   <a
                     href="https://www.instagram.com/ankit_tripathee/"
                     target="_blank"
@@ -120,6 +121,13 @@ const Home = () => {
                 </li>
 
                 <li>
+                  <img
+                    src="https://skillicons.dev/icons?i=docker"
+                    alt="Docker"
+                  />
+                </li>
+
+                <li>
                   <img src="https://skillicons.dev/icons?i=git" alt="Git" />
                 </li>
 
@@ -128,6 +136,17 @@ const Home = () => {
                     src="https://skillicons.dev/icons?i=github"
                     alt="GitHub"
                   />
+                </li>
+
+                <li>
+                  <img
+                    src="https://skillicons.dev/icons?i=gitlab"
+                    alt="GitLab"
+                  />
+                </li>
+
+                <li>
+                  <img src="https://skillicons.dev/icons?i=linux" alt="Linux" />
                 </li>
 
                 <li>

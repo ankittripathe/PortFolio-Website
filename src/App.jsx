@@ -10,10 +10,10 @@ import { ToastContainer } from "react-toastify";
 // import ThemeToggle from "./Components/ThemeToogle";
 
 const App = () => {
-
   return (
     <>
-      <ToastContainer />Pop Notification
+      <ToastContainer />
+      Pop Notification
       <Header />
       <Routes>
         <Route path="/" element={<HomePage />} />

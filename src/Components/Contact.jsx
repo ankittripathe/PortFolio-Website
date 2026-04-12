@@ -131,8 +131,8 @@ const Contact = () => {
                 </span>
                 <div className="contact__info">
                   <h3>Mail</h3>
-                  <a href="mailto:ankittripathe@gmail.com">
-                    ankittripathe@gmail.com
+                  <a href="mailto:ankittripathi.dev@gmail.com">
+                    ankittripathi.dev@gmail.com
                   </a>
                 </div>
               </div>
@@ -159,11 +159,11 @@ const Contact = () => {
                 <div className="contact__info">
                   <h3>LinkedIn</h3>
                   <a
-                    href="https://www.linkedin.com/in/ankittripathe"
+                    href="https://www.linkedin.com/in/ankittripathi-devs"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
-                    linkedin.com/in/ankittripathe
+                    linkedin.com/in/ankittripathi-devs
                   </a>
                 </div>
               </div>
@@ -188,11 +188,11 @@ const Contact = () => {
                 <div className="contact__info">
                   <h3>GitHub</h3>
                   <a
-                    href="https://github.com/ankittripathe"
+                    href="https://github.com/ankittripathi-dev"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
-                    github.com/ankittripathe
+                    github.com/ankittripathi-dev
                   </a>
                 </div>
               </div>
@@ -221,13 +221,13 @@ const Contact = () => {
                 </span>
                 <div className="contact__info">
                   <h3>Location</h3>
-                  {/* <p>Gurugram, Haryana</p> */}
+                  {/* <p>New Delhi, India</p> */}
                   <a
-                    href="https://www.google.com/maps/place/Gurugram,+Haryana"
+                    href="https://www.google.com/maps/place/New+Delhi,+India"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
-                    Gurugram, Haryana
+                    New Dehli, India
                   </a>
                 </div>
               </div>

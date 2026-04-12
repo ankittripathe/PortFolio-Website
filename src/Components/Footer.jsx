@@ -6,13 +6,13 @@ const Footer = () => {
       <footer>
         <div className="footer-container">
           <div className="footerc">
-            <h3>Copyright © 2025. All rights are reserved</h3>
+            <h3>Copyright © 2026. All rights are reserved</h3>
             <div className="footerc__socials">
               <a
                 aria-label="linkedin"
                 target="_blank"
                 rel="noreferrer"
-                href="https://www.linkedin.com/in/ankittripathe/"
+                href="https://www.linkedin.com/in/ankittripathi-devs/"
               >
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
@@ -38,7 +38,7 @@ const Footer = () => {
                 aria-label="github"
                 target="_blank"
                 rel="noreferrer"
-                href="https://github.com/ankittripathe"
+                href="https://github.com/ankittripathi-dev"
               >
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
