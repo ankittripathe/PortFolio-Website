@@ -12,7 +12,7 @@ const Footer = () => {
                 aria-label="linkedin"
                 target="_blank"
                 rel="noreferrer"
-                href="https://www.linkedin.com/in/ankittripathi-devs/"
+                href="https://www.linkedin.com/in/ankittripathidevs/"
               >
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
@@ -38,7 +38,7 @@ const Footer = () => {
                 aria-label="github"
                 target="_blank"
                 rel="noreferrer"
-                href="https://github.com/ankittripathi-dev"
+                href="https://github.com/ankittripathidevs"
               >
                 <svg
                   xmlns="http://www.w3.org/2000/svg"

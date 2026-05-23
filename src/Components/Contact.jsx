@@ -159,11 +159,11 @@ const Contact = () => {
                 <div className="contact__info">
                   <h3>LinkedIn</h3>
                   <a
-                    href="https://www.linkedin.com/in/ankittripathi-devs"
+                    href="https://www.linkedin.com/in/ankittripathidevs"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
-                    linkedin.com/in/ankittripathi-devs
+                    linkedin.com/in/ankittripathidevs
                   </a>
                 </div>
               </div>
@@ -188,11 +188,11 @@ const Contact = () => {
                 <div className="contact__info">
                   <h3>GitHub</h3>
                   <a
-                    href="https://github.com/ankittripathi-dev"
+                    href="https://github.com/ankittripathidevs"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
-                    github.com/ankittripathi-dev
+                    github.com/ankittripathidevs
                   </a>
                 </div>
               </div>

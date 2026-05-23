@@ -23,14 +23,14 @@ const Home = () => {
                 </p>
                 <span className="links">
                   <a
-                    href="https://github.com/ankittripathi-dev/"
+                    href="https://github.com/ankittripathidevs/"
                     target="_blank"
                   >
                     <img src={github} alt="Github" />
                   </a>
 
                   <a
-                    href="https://www.linkedin.com/in/ankittripathi-devs"
+                    href="https://www.linkedin.com/in/ankittripathidevs"
                     target="_blank"
                   >
                     <img src={linkedin} alt="LinkedIn" />
